@@ -3,6 +3,7 @@ on:
   schedule:     # Runs every 5 minutes
     - cron: '*/5 * * * *'
   workflow_dispatch:
+  max_post_count: 25
   
 jobs:
   update-readme-with-blog:

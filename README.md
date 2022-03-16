@@ -2,7 +2,7 @@
 ## About
 ## Languages & Tools
 
-## Jobs
+## Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - [Video Editor / Content Producer](https://jobs.wordpress.net/job/video-editor-content-producer/)
 - [Customer Support Ninja](https://jobs.wordpress.net/job/customer-support-ninja/)

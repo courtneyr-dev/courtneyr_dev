@@ -1,7 +1,7 @@
 # Courtney Robertson
 ## About
 ## Languages & Tools
-## Jobs
 
+## Jobs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

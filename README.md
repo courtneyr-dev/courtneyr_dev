@@ -5,8 +5,8 @@
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - [Build Your Developer Network, Career and Business – Do_the Woo](https://courtneyr.dev/2022/04/21/build-your-developer-network-career-and-business/)
-- [Learn.WordPress So You Can Learn WooCommerce](https://courtneyr.dev/2022/03/15/learn-wordpress-so-you-can-learn-woocommerce/)
-- [The WordPress Education Ecosystem Challenges and Opportunities](https://courtneyr.dev/2022/03/02/the-wordpress-education-ecosystem-challenges-and-opportunities/)
+- [Learn.WordPress So You Can Learn WooCommerce – Do_the Woo](https://courtneyr.dev/2022/03/15/learn-wordpress-so-you-can-learn-woocommerce/)
+- [The WordPress Education Ecosystem Challenges and Opportunities  – LifterLMS](https://courtneyr.dev/2022/03/02/the-wordpress-education-ecosystem-challenges-and-opportunities/)
 - [Torque Social Hour February 2, 2022](https://courtneyr.dev/2022/02/02/torque-social-hour-february-2-2022/)
 - [NICU Month and Career Halt](https://courtneyr.dev/2021/09/28/nicu-month-and-career-halt/)
 - [FemTechConf](https://courtneyr.dev/2021/09/24/femtechconf/)

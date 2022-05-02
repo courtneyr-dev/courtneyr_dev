@@ -4,7 +4,7 @@
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Developer Network, Career and Business](https://courtneyr.dev/2022/04/21/build-your-developer-network-career-and-business/)
+- [Build Your Developer Network, Career and Business – Do_the Woo](https://courtneyr.dev/2022/04/21/build-your-developer-network-career-and-business/)
 - [Learn.WordPress So You Can Learn WooCommerce](https://courtneyr.dev/2022/03/15/learn-wordpress-so-you-can-learn-woocommerce/)
 - [The WordPress Education Ecosystem Challenges and Opportunities](https://courtneyr.dev/2022/03/02/the-wordpress-education-ecosystem-challenges-and-opportunities/)
 - [Torque Social Hour February 2, 2022](https://courtneyr.dev/2022/02/02/torque-social-hour-february-2-2022/)

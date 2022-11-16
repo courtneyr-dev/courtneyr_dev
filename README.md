@@ -2,7 +2,7 @@
 ## About
 ## Languages & Tools
 
-## 📕 &nbsp;**Latest Blog Posts**
+## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Leveling up entry-level WordPress developers](https://courtneyr.dev/2022/10/19/leveling-up-entry-level-wordpress-developers/)
 - [A WooSesh Chat with Paul Maiorana, Kimberly Coleman and Courtney Robertson](https://courtneyr.dev/2022/10/11/a-woosesh-chat-with-paul-maiorana-kimberly-coleman-and-courtney-robertson/)

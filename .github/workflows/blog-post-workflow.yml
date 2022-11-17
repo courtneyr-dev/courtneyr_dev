@@ -17,3 +17,6 @@ jobs:
         with:
           feed_list: "https://courtneyr.dev/feed"
           max_post_count: 25
+
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.28

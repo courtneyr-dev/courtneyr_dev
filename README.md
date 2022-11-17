@@ -1,6 +1,5 @@
 # Hi 👋, I'm Courtney Robertson
- 🔭 I’m currently working on [Learn 
- ](https://github.com/orgs/WordPress/projects/33) <br />
+ 🔭 I’m currently working on [Learn WordPress ](https://github.com/orgs/WordPress/projects/33) <br />
  🌱 I’m currently learning **React, PKM** <br />
  👯 I’m looking to collaborate on **open source contributions** <br />
  🤝 I’m looking for a mentor in **OSPO** <br />

@@ -1,16 +1,16 @@
 <img align="right" alt="Courtney Robertson - octocat" src="https://github.com/courtneyr-dev/courtneyr-dev/blob/main/images/octocat-1668641342019.png?raw=true" style="float: right; width: 300px; height: 300px;" />
- ## Hi 👋, I'm Courtney Robertson  
- 🔭 I’m currently working on \[Learn WordPress \](https://github.com/orgs/WordPress/projects/33)  
-  
- 🌱 I’m currently learning \*\*React, PKM\*\*  
-  
- 👯 I’m looking to collaborate on \*\*open source contributions\*\*   
-  
- 🤝 I’m looking for a mentor in \*\*OSPO\*\*  
-  
- 📝 I regularly write articles on \[https://poststatus.com\](https://poststatus.com)   
-  
- 🎻 Fun fact \*\*I play a 7 string electric violin as well as a traditional violin and mandolin\*\*
+ # Hi 👋, I'm Courtney Robertson  
+ 🔭 I’m currently working on [Learn WordPress ](https://github.com/orgs/WordPress/projects/33)
+
+ 🌱 I’m currently learning **React, PKM**
+
+ 👯 I’m looking to collaborate on **open source contributions** 
+
+ 🤝 I’m looking for a mentor in **OSPO**
+
+ 📝 I regularly write articles on [https://poststatus.com](https://poststatus.com) 
+
+ 🎻 Fun fact **I play a 7 string electric violin as well as a traditional violin and mandolin**
 
 
 ## 📝 &nbsp;**Latest Blog Posts**

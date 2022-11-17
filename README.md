@@ -1,8 +1,8 @@
 # Hi 👋, I'm Courtney Robertson
- 🔭 I’m currently working on [Learn.WordPress.org](https://github.com/orgs/WordPress/projects/33) <br />
+ 🔭 I’m currently working on [Learn WordPress](https://github.com/orgs/WordPress/projects/33) <br />
  🌱 I’m currently learning **React, PKM** <br />
  👯 I’m looking to collaborate on **open source contributions** <br />
- 🤝 I’m looking for help with **OSPO mentorship** <br />
+ 🤝 I’m looking for a mentor in **OSPO** <br />
  📝 I regularly write articles on [https://poststatus.com](https://poststatus.com) <br />
  🎻 Fun fact **I play a 7 string electric violin as well as a traditional violin and mandolin** <br />
 

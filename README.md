@@ -1,10 +1,4 @@
-# Courtney Robertson
-<h1 align="center">Hi 👋, I'm Courtney Robertson</h1>
-<h3 align="center">🥑 #OpenSource #DevRel Advocate @godaddy-wordpress Ⓦ @WordPress Training Team 👩🏻‍🏫 Frm: #WebDev bootcamp faculty 👩🏻‍💻 #Community 🎻 👩🏻‍</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=courtneyr-dev" alt="courtneyr-dev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/courtneyr_dev" target="blank"><img src="https://img.shields.io/twitter/follow/courtneyr_dev?logo=twitter&style=for-the-badge" alt="courtneyr_dev" /></a> </p>
+# Hi 👋, I'm Courtney Robertson
 
 - 🔭 I’m currently working on [Learn.WordPress.org](https://github.com/orgs/WordPress/projects/33)
 
@@ -18,7 +12,7 @@
 
 - ⚡ Fun fact **I play a 7 string electric violin as well as a traditional violin and mandolin**
 
-### Blogs posts
+## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -58,3 +52,8 @@
 - [WordCamp MontClair: The WordPress all-women and non-binary release squad: contributing to WordPress and more](https://courtneyr.dev/2022/06/25/wordcamp-montclair-the-wordpress-all-women-and-non-binary-release-squad-contributing-to-wordpress-and-more/)
 - [WP Tavern #26 – Courtney Robertson on How the Learn Project Is Educating People About WordPress](https://courtneyr.dev/2022/05/11/wp-tavern-26-courtney-robertson-on-how-the-learn-project-is-educating-people-about-wordpress/)
 <!-- BLOG-POST-LIST:END -->
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=courtneyr-dev" alt="courtneyr-dev" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/courtneyr_dev" target="blank"><img src="https://img.shields.io/twitter/follow/courtneyr_dev?logo=twitter&style=for-the-badge" alt="courtneyr_dev" /></a> </p>

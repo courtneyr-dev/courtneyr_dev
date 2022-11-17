@@ -5,7 +5,7 @@
  
  👩🏻‍🏫 I’m currently contributing to [Learn WordPress ](https://github.com/orgs/WordPress/projects/33)
 
- 📚 I’m currently learning **React, PKM**
+ 📚 I’m currently learning **React, Zettlekasten, Smart Notes, Bullet Journaling, and GTD**
 
  👯 I’m looking to collaborate on **open source contributions** 
 

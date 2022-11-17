@@ -3,9 +3,9 @@
   
  🥑 I am an Open Source Sr. Web Design and Developer Advocate at GoDaddy
  
- 🔭 I’m currently working on [Learn WordPress ](https://github.com/orgs/WordPress/projects/33)
+ 👩🏻‍🏫 I’m currently contributing to [Learn WordPress ](https://github.com/orgs/WordPress/projects/33)
 
- 🌱 I’m currently learning **React, PKM**
+ 📚 I’m currently learning **React, PKM**
 
  👯 I’m looking to collaborate on **open source contributions** 
 
@@ -14,6 +14,8 @@
  📝 I regularly write articles on [WordPress Training Team](https://make.wordpress.org/training/author/courane01), [GoDaddy Blog](https://www.godaddy.com/garage/author/crobertson/), [Post Status](https://poststatus.com/author/courtney/) 
 
  🎻 Fun facts **I play a 7 string electric violin as well as a traditional violin and mandolin, 3D print, grow lots of food, and am a competitive swimmer**
+ 
+👩🏻‍💻 Pronouns: she/her/hers
 
 
 ## 📝 &nbsp;**Latest Blog Posts**

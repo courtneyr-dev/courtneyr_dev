@@ -1,5 +1,5 @@
- [![Courtney Robertson - octocat](https://github.com/courtneyr-dev/courtneyr-dev/blob/main/images/octocat-1668641342019.png?raw=true)](https://github.com/courtneyr-dev/courtneyr-dev/blob/main/images/octocat-1668641342019.png?raw=true)
- ##Hi 👋, I'm Courtney Robertson  
+<img align="right" alt="Courtney Robertson - octocat" src="https://github.com/courtneyr-dev/courtneyr-dev/blob/main/images/octocat-1668641342019.png?raw=true" style="float: right; width: 300px; height: 300px;" />
+ ## Hi 👋, I'm Courtney Robertson  
  🔭 I’m currently working on \[Learn WordPress \](https://github.com/orgs/WordPress/projects/33)  
   
  🌱 I’m currently learning \*\*React, PKM\*\*  

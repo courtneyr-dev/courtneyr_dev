@@ -1,4 +1,4 @@
- # Hi 👋, I'm Courtney Robertson 
+ <h2> Hi 👋, I'm Courtney Robertson</h2>
 <img align="right" alt="Courtney Robertson - octocat" src="https://github.com/courtneyr-dev/courtneyr-dev/blob/main/images/octocat-1668641342019.png?raw=true" style="float: right; width: 300px; height: 300px;" />
   
  🔭 I’m currently working on [Learn WordPress ](https://github.com/orgs/WordPress/projects/33)
@@ -9,7 +9,7 @@
 
  🤝 I’m looking for a mentor in **OSPO**
 
- 📝 I regularly write articles on [https://poststatus.com](https://poststatus.com) 
+ 📝 I regularly write articles on [WordPress Training Team](https://make.wordpress.org/training/author/courane01), [GoDaddy Blog](https://www.godaddy.com/garage/author/crobertson/), [Post Status](https://poststatus.com/author/courtney/) 
 
  🎻 Fun fact **I play a 7 string electric violin as well as a traditional violin and mandolin**
 

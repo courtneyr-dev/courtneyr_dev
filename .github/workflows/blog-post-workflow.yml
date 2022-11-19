@@ -17,6 +17,3 @@ jobs:
         with:
           feed_list: "https://zapier.com/engine/rss/73497/Courtneyr-dev"
           max_post_count: 25
-
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.28

@@ -1,7 +1,7 @@
 name: Blog Post
 on:
-  schedule:     # Runs every 5 minutes
-    - cron: '*/5 * * * *'
+  schedule:     # Runs every 500 minutes
+    - cron: '*/500 * * * *'
   workflow_dispatch:
 
   

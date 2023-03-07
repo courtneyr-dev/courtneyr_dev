@@ -20,7 +20,31 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-
+- [Meeting Agenda for March 7th, 2023](https://make.wordpress.org/training/2023/03/06/meeting-agenda-for-march-7th-2023/)
+- [Recap: WordPress 6.2 Beta 4 Release Party Ride Along](https://make.wordpress.org/training/2023/03/03/recap-wordpress-6-2-beta-4-release-party-ride-along/)
+- [Recap: Sensei Pro LMS Demo for Learn WordPress](https://make.wordpress.org/training/2023/03/03/recap-sensei-pro-lms-demo-for-learn-wordpress/)
+- [Become a Welcome Committee member today!](https://make.wordpress.org/training/2023/03/03/become-a-welcome-committee-member-today/)
+- [Training Team Goals for 2023](https://make.wordpress.org/training/2023/03/02/training-team-goals-for-2023/)
+- [WordPress 6.2 Beta 4 &amp;amp; Live Demo • Performance Roadmap • Static vs Dynamic](https://poststatus.com/wordpress-6-2-beta-4-live-demo-performance-roadmap-static-vs-dynamic/)
+- [Training Team Meeting Recap for February 28, 2023](https://make.wordpress.org/training/2023/03/01/training-team-meeting-recap-for-february-28th-2023/)
+- [Meeting Agenda for February 28th, 2023](https://make.wordpress.org/training/2023/02/28/meeting-agenda-for-february-28th-2023/)
+- [X-post: Proposal: Modify the Events and News widget to show topic-based meetups worldwide](https://make.wordpress.org/training/2023/02/27/xpost-proposal-modify-the-events-and-news-widget-to-show-topic-based-meetups-worldwide/)
+- [WordPress 6.2 Beta 3 &amp;amp; Live Demo • Help Test • Changes to WP Release Cycle](https://poststatus.com/wordpress-6-2-beta-3-live-demo-help-test-changes-to-wp-release-cycle/)
+- [WordCamp Asia Recap for 2023](https://www.godaddy.com/garage/wordcamp-asia-2023/)
+- [February 2023 Faculty Meeting](https://make.wordpress.org/training/2023/02/17/february-2023-faculty-meeting/)
+- [WordPress 6.2 Beta 2 • Help Test • Theme Directory Redesign • Apply for Community Summit](https://poststatus.com/wordpress-6-2-beta-2-help-test-theme-directory-redesign-apply-for-community-summit/)
+- [X-post: Future plans for HelpHub](https://make.wordpress.org/training/2023/02/13/xpost-future-plans-for-helphub/)
+- [WordPress 6.2 Beta 1 • Phase 2 Finale • Creating a Mentorship Program • Apply for Community Summit](https://poststatus.com/wordpress-6-2-beta-1-phase-2-finale-creating-a-mentorship-program-apply-for-community-summit/)
+- [What’s new in WordPress 6.2](https://www.godaddy.com/garage/whats-new-in-wordpress-6-2/)
+- [When Gutenberg Phases End • Priorities in Onboarding Contributors • Redesign Roll Outs](https://poststatus.com/when-gutenberg-phases-end-priorities-in-onboarding-contributors-redesign-roll-outs/)
+- [WP Community Support &lpar;Central&rpar; vs WP Foundation • Old Trac Tickets • Themes &amp;amp; Support Docs Redesign](https://poststatus.com/wp-community-support-central-vs-wp-foundation-old-trac-tickets-themes-support-docs-redesign/)
+- [Book Review: Engineering Management for the Rest of Us](https://courtneyr.dev/2023/01/22/book-review-engineering-management/)
+- [Big Picture Goals 2023 • WP 6.2 Planning • LearnWP Needs Analysis • Wrong Plugins](https://poststatus.com/big-picture-goals-2023-wp-6-2-planning-learnwp-needs-analysis-wrong-plugins/)
+- [Information Sources for WordPress 6.2](https://make.wordpress.org/training/2023/01/13/information-sources-for-wordpress-6-2/)
+- [Improving 5ftF Contributor Journey • Building Interactive Blocks • Layout Classes • WP20](https://poststatus.com/improving-5ftf-contributor-journey-building-interactive-blocks-layout-classes-wp20/)
+- [WordPress 6.2 Schedule • 2022 in Core • Block Developer Year in Review • New Incident Response Team](https://poststatus.com/wordpress-6-2-schedule-2022-in-core-block-developer-year-in-review-new-incident-response-team/)
+- [Annual Survey • WordPress Playground • Plugins/themes Categorization](https://poststatus.com/annual-survey-wordpress-playground-plugins-themes-categorization/)
+- [State of the Word 2022 Recap](https://www.godaddy.com/garage/state-of-the-word-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

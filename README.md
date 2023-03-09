@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 6.2 Beta 5 • Dev Notes • Learning Path for WP Devs](https://poststatus.com/wordpress-6-2-beta-5-dev-notes-learning-path-for-wp-devs/)
 - [Meeting Agenda for March 7th, 2023](https://make.wordpress.org/training/2023/03/06/meeting-agenda-for-march-7th-2023/)
 - [Recap: WordPress 6.2 Beta 4 Release Party Ride Along](https://make.wordpress.org/training/2023/03/03/recap-wordpress-6-2-beta-4-release-party-ride-along/)
 - [Recap: Sensei Pro LMS Demo for Learn WordPress](https://make.wordpress.org/training/2023/03/03/recap-sensei-pro-lms-demo-for-learn-wordpress/)
@@ -44,7 +45,6 @@
 - [Improving 5ftF Contributor Journey • Building Interactive Blocks • Layout Classes • WP20](https://poststatus.com/improving-5ftf-contributor-journey-building-interactive-blocks-layout-classes-wp20/)
 - [WordPress 6.2 Schedule • 2022 in Core • Block Developer Year in Review • New Incident Response Team](https://poststatus.com/wordpress-6-2-schedule-2022-in-core-block-developer-year-in-review-new-incident-response-team/)
 - [Annual Survey • WordPress Playground • Plugins/themes Categorization](https://poststatus.com/annual-survey-wordpress-playground-plugins-themes-categorization/)
-- [State of the Word 2022 Recap](https://www.godaddy.com/garage/state-of-the-word-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

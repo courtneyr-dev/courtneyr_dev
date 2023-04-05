@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Build a Block Theme • Theme Performance Improvements * Interactivity API • Why Jazz?](https://poststatus.com/build-a-block-theme-theme-performance-improvements-interactivity-api-why-jazz/)
 - [WordPress 6.2 “Dolphy” • Gutenberg Phase 3 • Test Plugin Dependencies](https://poststatus.com/wordpress-6-2-dolphy-gutenberg-phase-3-test-plugin-dependencies/)
 - [WordPress 6.2 RC3 • Code Generators and GPL](https://poststatus.com/wordpress-6-2-rc3-code-generators-and-gpl/)
 - [WordPress 6.2 RC2 • Plugin Review Team Retirement News • WP20 Giveaway](https://poststatus.com/wordpress-6-2-rc2/)
@@ -44,7 +45,6 @@
 - [WP Community Support &lpar;Central&rpar; vs WP Foundation • Old Trac Tickets • Themes &amp;amp; Support Docs Redesign](https://poststatus.com/wp-community-support-central-vs-wp-foundation-old-trac-tickets-themes-support-docs-redesign/)
 - [Book Review: Engineering Management for the Rest of Us](https://courtneyr.dev/2023/01/22/book-review-engineering-management/)
 - [Big Picture Goals 2023 • WP 6.2 Planning • LearnWP Needs Analysis • Wrong Plugins](https://poststatus.com/big-picture-goals-2023-wp-6-2-planning-learnwp-needs-analysis-wrong-plugins/)
-- [Information Sources for WordPress 6.2](https://make.wordpress.org/training/2023/01/13/information-sources-for-wordpress-6-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

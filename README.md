@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Women &amp;amp; Nonbinary Release • WP-CLI 2.8.0 • Redesign Update • Build Block Theme](https://poststatus.com/women-nonbinary-release-wp-cli-2-8-0-redesign-update-build-block-theme/)
 - [Proposal: Creating Learning Pathways for Learn WordPress](https://make.wordpress.org/training/2023/04/05/proposal-creating-learning-pathways-for-learn-wordpress/)
 - [Build a Block Theme • Theme Performance Improvements * Interactivity API • Why Jazz?](https://poststatus.com/build-a-block-theme-theme-performance-improvements-interactivity-api-why-jazz/)
 - [WordPress 6.2 “Dolphy” • Gutenberg Phase 3 • Test Plugin Dependencies](https://poststatus.com/wordpress-6-2-dolphy-gutenberg-phase-3-test-plugin-dependencies/)
@@ -44,7 +45,6 @@
 - [What’s new in WordPress 6.2](https://www.godaddy.com/garage/whats-new-in-wordpress-6-2/)
 - [When Gutenberg Phases End • Priorities in Onboarding Contributors • Redesign Roll Outs](https://poststatus.com/when-gutenberg-phases-end-priorities-in-onboarding-contributors-redesign-roll-outs/)
 - [WP Community Support &lpar;Central&rpar; vs WP Foundation • Old Trac Tickets • Themes &amp;amp; Support Docs Redesign](https://poststatus.com/wp-community-support-central-vs-wp-foundation-old-trac-tickets-themes-support-docs-redesign/)
-- [Book Review: Engineering Management for the Rest of Us](https://courtneyr.dev/2023/01/22/book-review-engineering-management/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WP Feature Notifications • Prioritizing Performance Benefits • DevBlog updates](https://poststatus.com/wp-feature-notifications-prioritizing-performance-benefits-devblog-updates/)
 - [WordPress Book • Women &amp;amp; Nonbinary Release • WP6.3 • More Effective Contributor Days](https://poststatus.com/wordpress-book-women-nonbinary-release-wp6-3-more-effective-contributor-days/)
 - [Women &amp;amp; Nonbinary Release • WP-CLI 2.8.0 • Redesign Update • Build Block Theme](https://poststatus.com/women-nonbinary-release-wp-cli-2-8-0-redesign-update-build-block-theme/)
 - [Proposal: Creating Learning Pathways for Learn WordPress](https://make.wordpress.org/training/2023/04/05/proposal-creating-learning-pathways-for-learn-wordpress/)
@@ -44,7 +45,6 @@
 - [X-post: Future plans for HelpHub](https://make.wordpress.org/training/2023/02/13/xpost-future-plans-for-helphub/)
 - [WordPress 6.2 Beta 1 • Phase 2 Finale • Creating a Mentorship Program • Apply for Community Summit](https://poststatus.com/wordpress-6-2-beta-1-phase-2-finale-creating-a-mentorship-program-apply-for-community-summit/)
 - [What’s new in WordPress 6.2](https://www.godaddy.com/garage/whats-new-in-wordpress-6-2/)
-- [When Gutenberg Phases End • Priorities in Onboarding Contributors • Redesign Roll Outs](https://poststatus.com/when-gutenberg-phases-end-priorities-in-onboarding-contributors-redesign-roll-outs/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

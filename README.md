@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/training/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [WordCamp Buffalo 2023](https://courtneyr.dev/2023/05/07/wordcamp-buffalo-2023/)
 - [Blogs to Blocks • Core + AI • LCP Image Performance • Testing FSE Front Page](https://poststatus.com/blogs-to-blocks-core-ai-lcp-image-performance-testing-fse-front-page/)
 - [WP Feature Notifications • Prioritizing Performance Benefits • DevBlog updates](https://poststatus.com/wp-feature-notifications-prioritizing-performance-benefits-devblog-updates/)
@@ -44,7 +45,6 @@
 - [WordCamp Asia Recap for 2023](https://www.godaddy.com/garage/wordcamp-asia-2023/)
 - [February 2023 Faculty Meeting](https://make.wordpress.org/training/2023/02/17/february-2023-faculty-meeting/)
 - [WordPress 6.2 Beta 2 • Help Test • Theme Directory Redesign • Apply for Community Summit](https://poststatus.com/wordpress-6-2-beta-2-help-test-theme-directory-redesign-apply-for-community-summit/)
-- [X-post: Future plans for HelpHub](https://make.wordpress.org/training/2023/02/13/xpost-future-plans-for-helphub/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WP 6.2.1 • PHP8 Compatibility • Translation Playground • Contributor Mentorship Program](https://poststatus.com/wp-6-2-1-php8-compatibility-translation-playground-contributor-mentorship-program/)
 - [WP 6.2.1 RC1 • Annual Survey Results • WCUS Scholarship Fund](https://poststatus.com/wp-6-2-1-rc1-annual-survey-results-wcus-scholarship-fund/)
 - [WordPress Block: Bookmark Card](https://courtneyr.dev/2023/05/11/wordpress-block-bookmark-card/)
 - [My First WordPress Site](https://courtneyr.dev/2023/05/10/my-first-wordpress-site/)
@@ -44,7 +45,6 @@
 - [WordPress 6.2 Beta 4 &amp;amp; Live Demo • Performance Roadmap • Static vs Dynamic](https://poststatus.com/wordpress-6-2-beta-4-live-demo-performance-roadmap-static-vs-dynamic/)
 - [Training Team Meeting Recap for February 28, 2023](https://make.wordpress.org/training/2023/03/01/training-team-meeting-recap-for-february-28th-2023/)
 - [Meeting Agenda for February 28th, 2023](https://make.wordpress.org/training/2023/02/28/meeting-agenda-for-february-28th-2023/)
-- [X-post: Proposal: Modify the Events and News widget to show topic-based meetups worldwide](https://make.wordpress.org/training/2023/02/27/xpost-proposal-modify-the-events-and-news-widget-to-show-topic-based-meetups-worldwide/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

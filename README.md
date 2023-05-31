@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WP 6.3 Planning • WP20 • AI Forum Replies • LearnWP Survey Results](https://poststatus.com/wp-6-3-planning-wp20-ai-forum-replies-learnwp-survey-results/)
 - [WP 6.2.2 • WP Playground • Client-side Filtering • Future WordCamp Brainstorms • Plugin Review Update](https://poststatus.com/wp-6-2-2-wp-playground-client-side-filtering-future-wordcamp-brainstorms-plugin-review-update/)
 - [WP 6.2.1 • PHP8 Compatibility • Translation Playground • Contributor Mentorship Program](https://poststatus.com/wp-6-2-1-php8-compatibility-translation-playground-contributor-mentorship-program/)
 - [WP 6.2.1 RC1 • Annual Survey Results • WCUS Scholarship Fund](https://poststatus.com/wp-6-2-1-rc1-annual-survey-results-wcus-scholarship-fund/)
@@ -44,7 +45,6 @@
 - [Become a Welcome Committee member today!](https://make.wordpress.org/training/2023/03/03/become-a-welcome-committee-member-today/)
 - [Training Team Goals for 2023](https://make.wordpress.org/training/2023/03/02/training-team-goals-for-2023/)
 - [WordPress 6.2 Beta 4 &amp;amp; Live Demo • Performance Roadmap • Static vs Dynamic](https://poststatus.com/wordpress-6-2-beta-4-live-demo-performance-roadmap-static-vs-dynamic/)
-- [Training Team Meeting Recap for February 28, 2023](https://make.wordpress.org/training/2023/03/01/training-team-meeting-recap-for-february-28th-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 6.3 Beta 4 • Help Test • DEIB New Team Proposal • Gutenberg Phase 3](https://poststatus.com/wordpress-6-3-beta-4-help-test-deib-new-team-proposal/)
 - [WordPress 6.3 Beta 2 • Help Test • WPDiversity • Plugin Team Next Phase • Mentorship](https://poststatus.com/wordpress-6-3-beta-2-help-test-wpdiversity-plugin-team-next-phase-mentorship/)
 - [Sustainability Team • Supporting Organizations • Commercial &amp;amp; Community Themes &amp;amp; Plugins • Pattern Curation](https://poststatus.com/sustainability-team-supporting-organizations-commercial-community-themes-plugins-pattern-curation/)
 - [WordCamp Europe Contributor Day 2023](https://make.wordpress.org/training/2023/06/08/wordcamp-europe-contributor-day-2023/)
@@ -44,7 +45,6 @@
 - [WordPress 6.2 “Dolphy” • Gutenberg Phase 3 • Test Plugin Dependencies](https://poststatus.com/wordpress-6-2-dolphy-gutenberg-phase-3-test-plugin-dependencies/)
 - [WordPress 6.2 RC3 • Code Generators and GPL](https://poststatus.com/wordpress-6-2-rc3-code-generators-and-gpl/)
 - [WordPress 6.2 RC2 • Plugin Review Team Retirement News • WP20 Giveaway](https://poststatus.com/wordpress-6-2-rc2/)
-- [WordPress 6.2 Beta 5 • Dev Notes • Learning Path for WP Devs](https://poststatus.com/wordpress-6-2-beta-5-dev-notes-learning-path-for-wp-devs/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

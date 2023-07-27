@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 6.3 RC2 • Synced Patterns • Internationalization • Gutenberg Phase 3](https://poststatus.com/wordpress-6-3-rc2-synced-patterns-internationalization-gutenberg-phase-3/)
 - [Call for Volunteers to help with 6.3 Learn WordPress updates](https://make.wordpress.org/training/2023/07/25/call-for-volunteers-to-help-with-6-3-learn-wordpress-updates/)
 - [WordPress 6.3 RC1 • Field Guide • Gutenberg Phase 3](https://poststatus.com/wordpress-6-3-rc1-field-guide-gutenberg-phase-3/)
 - [WordPress 6.3 Beta 4 • Help Test • DEIB New Team Proposal • Gutenberg Phase 3](https://poststatus.com/wordpress-6-3-beta-4-help-test-deib-new-team-proposal/)
@@ -44,7 +45,6 @@
 - [Women &amp;amp; Nonbinary Release • WP-CLI 2.8.0 • Redesign Update • Build Block Theme](https://poststatus.com/women-nonbinary-release-wp-cli-2-8-0-redesign-update-build-block-theme/)
 - [Proposal: Creating Learning Pathways for Learn WordPress](https://make.wordpress.org/training/2023/04/05/proposal-creating-learning-pathways-for-learn-wordpress/)
 - [Build a Block Theme • Theme Performance Improvements * Interactivity API • Why Jazz?](https://poststatus.com/build-a-block-theme-theme-performance-improvements-interactivity-api-why-jazz/)
-- [WordPress 6.2 “Dolphy” • Gutenberg Phase 3 • Test Plugin Dependencies](https://poststatus.com/wordpress-6-2-dolphy-gutenberg-phase-3-test-plugin-dependencies/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

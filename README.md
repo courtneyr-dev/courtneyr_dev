@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 6.3 RC3 • Cyber Resilience Act • Accessibility in Block Editing • Merging Gutenberg during Alpha](https://poststatus.com/wordpress-6-3-rc3-cyber-resilience-act-accessibility-in-block-editing-merging-gutenberg-during-alpha/)
 - [WordPress 6.3 RC2 • Synced Patterns • Internationalization • Gutenberg Phase 3](https://poststatus.com/wordpress-6-3-rc2-synced-patterns-internationalization-gutenberg-phase-3/)
 - [Call for Volunteers to help with 6.3 Learn WordPress updates](https://make.wordpress.org/training/2023/07/25/call-for-volunteers-to-help-with-6-3-learn-wordpress-updates/)
 - [WordPress 6.3 RC1 • Field Guide • Gutenberg Phase 3](https://poststatus.com/wordpress-6-3-rc1-field-guide-gutenberg-phase-3/)
@@ -44,7 +45,6 @@
 - [WordPress Book • Women &amp;amp; Nonbinary Release • WP6.3 • More Effective Contributor Days](https://poststatus.com/wordpress-book-women-nonbinary-release-wp6-3-more-effective-contributor-days/)
 - [Women &amp;amp; Nonbinary Release • WP-CLI 2.8.0 • Redesign Update • Build Block Theme](https://poststatus.com/women-nonbinary-release-wp-cli-2-8-0-redesign-update-build-block-theme/)
 - [Proposal: Creating Learning Pathways for Learn WordPress](https://make.wordpress.org/training/2023/04/05/proposal-creating-learning-pathways-for-learn-wordpress/)
-- [Build a Block Theme • Theme Performance Improvements * Interactivity API • Why Jazz?](https://poststatus.com/build-a-block-theme-theme-performance-improvements-interactivity-api-why-jazz/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

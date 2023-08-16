@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Translations Across the Project • Admin Design • New Blocks Page • Working Group on Organizations Supporting WordPress • Contributor Mentorship](https://poststatus.com/translations-across-the-project-admin-design-new-blocks-page-working-group-on-organizations-supporting-wordpress-contributor-mentorship/)
 - [WordPress 6.3 • Release Workflows • European Union Cyber Resiliency Act • Gutenberg Accessibility](https://poststatus.com/wordpress-6-3/)
 - [WordPress 6.3 RC3 • Cyber Resilience Act • Accessibility in Block Editing • Merging Gutenberg during Alpha](https://poststatus.com/wordpress-6-3-rc3-cyber-resilience-act-accessibility-in-block-editing-merging-gutenberg-during-alpha/)
 - [WordPress 6.3 RC2 • Synced Patterns • Internationalization • Gutenberg Phase 3](https://poststatus.com/wordpress-6-3-rc2-synced-patterns-internationalization-gutenberg-phase-3/)
@@ -44,7 +45,6 @@
 - [Blogs to Blocks • Core + AI • LCP Image Performance • Testing FSE Front Page](https://poststatus.com/blogs-to-blocks-core-ai-lcp-image-performance-testing-fse-front-page/)
 - [WP Feature Notifications • Prioritizing Performance Benefits • DevBlog updates](https://poststatus.com/wp-feature-notifications-prioritizing-performance-benefits-devblog-updates/)
 - [WordPress Book • Women &amp;amp; Nonbinary Release • WP6.3 • More Effective Contributor Days](https://poststatus.com/wordpress-book-women-nonbinary-release-wp6-3-more-effective-contributor-days/)
-- [Women &amp;amp; Nonbinary Release • WP-CLI 2.8.0 • Redesign Update • Build Block Theme](https://poststatus.com/women-nonbinary-release-wp-cli-2-8-0-redesign-update-build-block-theme/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

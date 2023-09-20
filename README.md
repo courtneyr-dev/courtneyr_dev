@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Stop Saying WordPress Core and Start Saying Empowered WordPress Contributors](https://courtneyr.dev/2023/09/19/wordpress-core-and-wordpress-contributors/)
 - [Community Summit Recaps, Multilingual Documentation, Performant Translations](https://poststatus.com/community-summit-recaps-multilingual-documentation-performant-translations/)
 - [Information Sources for WordPress 6.4](https://make.wordpress.org/training/2023/08/24/information-sources-for-wordpress-6-4/)
 - [Translations Across the Project • Admin Design • New Blocks Page • Working Group on Organizations Supporting WordPress • Contributor Mentorship](https://poststatus.com/translations-across-the-project-admin-design-new-blocks-page-working-group-on-organizations-supporting-wordpress-contributor-mentorship/)
@@ -44,7 +45,6 @@
 - [A WordPress Origin Story: Courtney Robertson](https://courtneyr.dev/2023/05/09/wordpress-origin-story/)
 - [X-post: Day 1: #WP20 From Blogs to Blocks](https://make.wordpress.org/training/2023/05/09/xpost-day-1-wp20-from-blogs-to-blocks/)
 - [WordCamp Buffalo 2023](https://courtneyr.dev/2023/05/07/wordcamp-buffalo-2023/)
-- [Blogs to Blocks • Core + AI • LCP Image Performance • Testing FSE Front Page](https://poststatus.com/blogs-to-blocks-core-ai-lcp-image-performance-testing-fse-front-page/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

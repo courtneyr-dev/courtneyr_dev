@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 6.4 • Annual Survey • Stats &amp;amp; Dashboards • Global Sponsorship](https://poststatus.com/wordpress-6-4-annual-survey-stats-dashboards-global-sponsorship/)
 - [Plugin Team Sees a Shift Starting • Browser Interoperability Issues • WCUS Q&amp;amp;A • Enterprise WP](https://poststatus.com/plugin-team-sees-a-shift-starting/)
 - [X-post: Community Summit Discussion Notes: Creating WordPress Curriculum and Educational Experiences](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-discussion-notes-creating-wordpress-curriculum-and-educational-experiences/)
 - [Stop Saying WordPress Core and Start Saying Empowered WordPress Contributors](https://courtneyr.dev/2023/09/19/wordpress-core-and-wordpress-contributors/)
@@ -44,7 +45,6 @@
 - [WP 6.2.1 • PHP8 Compatibility • Translation Playground • Contributor Mentorship Program](https://poststatus.com/wp-6-2-1-php8-compatibility-translation-playground-contributor-mentorship-program/)
 - [WP 6.2.1 RC1 • Annual Survey Results • WCUS Scholarship Fund](https://poststatus.com/wp-6-2-1-rc1-annual-survey-results-wcus-scholarship-fund/)
 - [WordPress Block: Bookmark Card](https://courtneyr.dev/2023/05/11/wordpress-block-bookmark-card/)
-- [My First WordPress Site](https://courtneyr.dev/2023/05/10/my-first-wordpress-site/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -20,7 +20,10 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [💬 Open Source CMS and WordPress: The Business Value of Linux and Open Source](https://courtneyr.dev/2023/10/02/open-source-cms-and-wordpress/)
+- [💬 Elevate Your Open Source Understanding with 2 Perspectives: The Business &amp;amp; Economics of Linux and Open Source](https://courtneyr.dev/2023/09/29/2-open-source-contexts/)
 - [WordPress 6.4 • Annual Survey • Stats &amp;amp; Dashboards • Global Sponsorship](https://poststatus.com/wordpress-6-4-annual-survey-stats-dashboards-global-sponsorship/)
+- [💬 Free Software: The Business and Economics of Linux and Open Source](https://courtneyr.dev/2023/09/25/free-software-the-business-of-open-source/)
 - [Plugin Team Sees a Shift Starting • Browser Interoperability Issues • WCUS Q&amp;amp;A • Enterprise WP](https://poststatus.com/plugin-team-sees-a-shift-starting/)
 - [X-post: Community Summit Discussion Notes: Creating WordPress Curriculum and Educational Experiences](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-discussion-notes-creating-wordpress-curriculum-and-educational-experiences/)
 - [Stop Saying WordPress Core and Start Saying Empowered WordPress Contributors](https://courtneyr.dev/2023/09/19/wordpress-core-and-wordpress-contributors/)
@@ -42,9 +45,6 @@
 - [Everything you need to know ahead of our WordCamp Europe 2023 recap](https://www.godaddy.com/garage/wordcamp-europe-2023-recap/)
 - [WP 6.3 Planning • WP20 • AI Forum Replies • LearnWP Survey Results](https://poststatus.com/wp-6-3-planning-wp20-ai-forum-replies-learnwp-survey-results/)
 - [WP 6.2.2 • WP Playground • Client-side Filtering • Future WordCamp Brainstorms • Plugin Review Update](https://poststatus.com/wp-6-2-2-wp-playground-client-side-filtering-future-wordcamp-brainstorms-plugin-review-update/)
-- [WP 6.2.1 • PHP8 Compatibility • Translation Playground • Contributor Mentorship Program](https://poststatus.com/wp-6-2-1-php8-compatibility-translation-playground-contributor-mentorship-program/)
-- [WP 6.2.1 RC1 • Annual Survey Results • WCUS Scholarship Fund](https://poststatus.com/wp-6-2-1-rc1-annual-survey-results-wcus-scholarship-fund/)
-- [WordPress Block: Bookmark Card](https://courtneyr.dev/2023/05/11/wordpress-block-bookmark-card/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

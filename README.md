@@ -20,10 +20,19 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Member Spotlight: Corey Maass](https://poststatus.com/member-spotlight-corey-maass/)
 - [💬 Open Source CMS and WordPress: The Business Value of Linux and Open Source](https://courtneyr.dev/2023/10/02/open-source-cms-and-wordpress/)
+- [Next Steps to Elevating the Business of WordPress](https://poststatus.com/next-steps-to-elevating-the-business-of-wordpress/)
 - [💬 Elevate Your Open Source Understanding with 2 Perspectives: The Business &amp;amp; Economics of Linux and Open Source](https://courtneyr.dev/2023/09/29/2-open-source-contexts/)
+- [Community Roundup Week Ending September 29](https://poststatus.com/community-roundup-week-ending-september-29/)
+- [Jobs &amp;amp; Career Roundup Week Ending September 29](https://poststatus.com/jobs-career-roundup-week-ending-september-29/)
+- [Member Spotlight: Nyasha Green](https://poststatus.com/member-spotlight-nyasha-green/)
+- [Business Roundup Week Ending September 29](https://poststatus.com/business-roundup-week-ending-september-29/)
 - [WordPress 6.4 • Annual Survey • Stats &amp;amp; Dashboards • Global Sponsorship](https://poststatus.com/wordpress-6-4-annual-survey-stats-dashboards-global-sponsorship/)
+- [Two Worlds of WordPress](https://poststatus.com/two-worlds-of-wordpress/)
 - [💬 Free Software: The Business and Economics of Linux and Open Source](https://courtneyr.dev/2023/09/25/free-software-the-business-of-open-source/)
+- [Post Status Draft Podcast: Jake Goldman of 10Up on Merging + WP and the Web](https://poststatus.com/post-status-draft-podcast-jake-goldman-of-10up-on-merging-wp-and-the-web/)
+- [Launching a WordPress Product in Public: Session 24](https://poststatus.com/launching-a-wordpress-product-in-public-session-24/)
 - [Plugin Team Sees a Shift Starting • Browser Interoperability Issues • WCUS Q&amp;amp;A • Enterprise WP](https://poststatus.com/plugin-team-sees-a-shift-starting/)
 - [X-post: Community Summit Discussion Notes: Creating WordPress Curriculum and Educational Experiences](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-discussion-notes-creating-wordpress-curriculum-and-educational-experiences/)
 - [Stop Saying WordPress Core and Start Saying Empowered WordPress Contributors](https://courtneyr.dev/2023/09/19/wordpress-core-and-wordpress-contributors/)
@@ -36,15 +45,6 @@
 - [WordPress 6.3 RC2 • Synced Patterns • Internationalization • Gutenberg Phase 3](https://poststatus.com/wordpress-6-3-rc2-synced-patterns-internationalization-gutenberg-phase-3/)
 - [Call for Volunteers to help with 6.3 Learn WordPress updates](https://make.wordpress.org/training/2023/07/25/call-for-volunteers-to-help-with-6-3-learn-wordpress-updates/)
 - [WordPress 6.3 RC1 • Field Guide • Gutenberg Phase 3](https://poststatus.com/wordpress-6-3-rc1-field-guide-gutenberg-phase-3/)
-- [WordPress 6.3 Beta 4 • Help Test • DEIB New Team Proposal • Gutenberg Phase 3](https://poststatus.com/wordpress-6-3-beta-4-help-test-deib-new-team-proposal/)
-- [WordPress 6.3 Beta 2 • Help Test • WPDiversity • Plugin Team Next Phase • Mentorship](https://poststatus.com/wordpress-6-3-beta-2-help-test-wpdiversity-plugin-team-next-phase-mentorship/)
-- [Sustainability Team • Supporting Organizations • Commercial &amp;amp; Community Themes &amp;amp; Plugins • Pattern Curation](https://poststatus.com/sustainability-team-supporting-organizations-commercial-community-themes-plugins-pattern-curation/)
-- [WordCamp Europe Contributor Day 2023](https://make.wordpress.org/training/2023/06/08/wordcamp-europe-contributor-day-2023/)
-- [Improving Visa Support • Event Tooling • WP-CLI Updates • Block Inspector Sub-groups](https://poststatus.com/improving-visa-support-event-tooling-wp-cli-updates-block-inspector-sub-groups/)
-- [Information Sources for 6.3](https://make.wordpress.org/training/2023/06/07/information-sources-for-6-3/)
-- [Everything you need to know ahead of our WordCamp Europe 2023 recap](https://www.godaddy.com/garage/wordcamp-europe-2023-recap/)
-- [WP 6.3 Planning • WP20 • AI Forum Replies • LearnWP Survey Results](https://poststatus.com/wp-6-3-planning-wp20-ai-forum-replies-learnwp-survey-results/)
-- [WP 6.2.2 • WP Playground • Client-side Filtering • Future WordCamp Brainstorms • Plugin Review Update](https://poststatus.com/wp-6-2-2-wp-playground-client-side-filtering-future-wordcamp-brainstorms-plugin-review-update/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

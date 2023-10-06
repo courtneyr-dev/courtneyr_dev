@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WP 6.3.2 RC1 &amp;amp; 6.4 Beta 2 • Plugin Live Demo • Stats &amp;amp; Dashboards • Test Fonts](https://poststatus.com/wp-6-3-2-rc1-6-4-beta-2-plugin-live-demo-stats-dashboards-test-fonts/)
 - [Launching a WordPress Product in Public: Session 25](https://poststatus.com/launching-a-wordpress-product-in-public-session-25/)
 - [Confidence and getting lucky](https://poststatus.com/confidence-and-getting-lucky/)
 - [Business Roundup Week Ending October 6](https://poststatus.com/business-roundup-week-ending-october-6/)
@@ -44,7 +45,6 @@
 - [Information Sources for WordPress 6.4](https://make.wordpress.org/training/2023/08/24/information-sources-for-wordpress-6-4/)
 - [Translations Across the Project • Admin Design • New Blocks Page • Working Group on Organizations Supporting WordPress • Contributor Mentorship](https://poststatus.com/translations-across-the-project-admin-design-new-blocks-page-working-group-on-organizations-supporting-wordpress-contributor-mentorship/)
 - [WordPress 6.3 • Release Workflows • European Union Cyber Resiliency Act • Gutenberg Accessibility](https://poststatus.com/wordpress-6-3/)
-- [WordPress 6.3 RC3 • Cyber Resilience Act • Accessibility in Block Editing • Merging Gutenberg during Alpha](https://poststatus.com/wordpress-6-3-rc3-cyber-resilience-act-accessibility-in-block-editing-merging-gutenberg-during-alpha/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

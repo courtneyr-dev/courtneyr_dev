@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Launching a WordPress Product in Public: Session 26](https://poststatus.com/launching-a-wordpress-product-in-public-session-26/)
 - [WP 6.3.2 &amp;amp; 6.4 Beta 4 • WP CLI • Showcase • Header/Footer](https://poststatus.com/wp-6-3-2-6-4-beta-4-wp-cli-showcase-header-footer/)
 - [Business Roundup Week Ending October 13](https://poststatus.com/business-roundup-week-ending-october-13/)
 - [Just like Spiderman](https://poststatus.com/just-like-spiderman/)
@@ -44,7 +45,6 @@
 - [Launching a WordPress Product in Public: Session 24](https://poststatus.com/launching-a-wordpress-product-in-public-session-24/)
 - [Plugin Team Sees a Shift Starting • Browser Interoperability Issues • WCUS Q&amp;amp;A • Enterprise WP](https://poststatus.com/plugin-team-sees-a-shift-starting/)
 - [X-post: Community Summit Discussion Notes: Creating WordPress Curriculum and Educational Experiences](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-discussion-notes-creating-wordpress-curriculum-and-educational-experiences/)
-- [Stop Saying WordPress Core and Start Saying Empowered WordPress Contributors](https://courtneyr.dev/2023/09/19/wordpress-core-and-wordpress-contributors/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

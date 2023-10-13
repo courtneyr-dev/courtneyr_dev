@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Business Roundup Week Ending October 13](https://poststatus.com/business-roundup-week-ending-october-13/)
 - [Just like Spiderman](https://poststatus.com/just-like-spiderman/)
 - [Jobs &amp;amp; Career Roundup Week Ending October 6](https://poststatus.com/jobs-career-roundup-week-ending-october-6/)
 - [Community Roundup Week Ending October 6](https://poststatus.com/community-roundup-week-ending-october-6/)
@@ -44,7 +45,6 @@
 - [X-post: Community Summit Discussion Notes: Creating WordPress Curriculum and Educational Experiences](https://make.wordpress.org/training/2023/09/21/xpost-community-summit-discussion-notes-creating-wordpress-curriculum-and-educational-experiences/)
 - [Stop Saying WordPress Core and Start Saying Empowered WordPress Contributors](https://courtneyr.dev/2023/09/19/wordpress-core-and-wordpress-contributors/)
 - [Accessibility in Site Editor, Openverse Wins an Award, What’s New for Devs in WP 6.4, Fields API Summary](https://poststatus.com/openverse-wins-an-award-whats-new-for-devs-in-wp-6-4-fields-api-summary/)
-- [Community Summit Recaps, Multilingual Documentation, Performant Translations](https://poststatus.com/community-summit-recaps-multilingual-documentation-performant-translations/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

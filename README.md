@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WP 6.4 RC1 • Support Forum Guidelines • Playground PR Preview &amp;amp; Beta/RC](https://poststatus.com/wp-6-4-rc1-support-forum-guidelines-playground-pr-preview-beta-rc/)
 - [On people breaking up with WordPress](https://poststatus.com/on-people-breaking-up-with-wordpress/)
 - [Launching a WordPress Product in Public: Session 26](https://poststatus.com/launching-a-wordpress-product-in-public-session-26/)
 - [WP 6.3.2 &amp;amp; 6.4 Beta 4 • WP CLI • Showcase • Header/Footer](https://poststatus.com/wp-6-3-2-6-4-beta-4-wp-cli-showcase-header-footer/)
@@ -44,7 +45,6 @@
 - [💬 Free Software: The Business and Economics of Linux and Open Source](https://courtneyr.dev/2023/09/25/free-software-the-business-of-open-source/)
 - [Post Status Draft Podcast: Jake Goldman of 10Up on Merging + WP and the Web](https://poststatus.com/post-status-draft-podcast-jake-goldman-of-10up-on-merging-wp-and-the-web/)
 - [Launching a WordPress Product in Public: Session 24](https://poststatus.com/launching-a-wordpress-product-in-public-session-24/)
-- [Plugin Team Sees a Shift Starting • Browser Interoperability Issues • WCUS Q&amp;amp;A • Enterprise WP](https://poststatus.com/plugin-team-sees-a-shift-starting/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

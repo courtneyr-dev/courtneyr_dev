@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Cory Miller with Marc Benzakein on MainWP](https://poststatus.com/cory-miller-with-marc-benzakein-on-mainwp/)
 - [Business Roundup Week Ending October 20](https://poststatus.com/business-roundup-week-ending-october-20/)
 - [WP 6.4 RC1 • Support Forum Guidelines • Playground PR Preview &amp;amp; Beta/RC](https://poststatus.com/wp-6-4-rc1-support-forum-guidelines-playground-pr-preview-beta-rc/)
 - [On people breaking up with WordPress](https://poststatus.com/on-people-breaking-up-with-wordpress/)
@@ -44,7 +45,6 @@
 - [WordPress 6.4 • Annual Survey • Stats &amp;amp; Dashboards • Global Sponsorship](https://poststatus.com/wordpress-6-4-annual-survey-stats-dashboards-global-sponsorship/)
 - [Two Worlds of WordPress](https://poststatus.com/two-worlds-of-wordpress/)
 - [💬 Free Software: The Business and Economics of Linux and Open Source](https://courtneyr.dev/2023/09/25/free-software-the-business-of-open-source/)
-- [Post Status Draft Podcast: Jake Goldman of 10Up on Merging + WP and the Web](https://poststatus.com/post-status-draft-podcast-jake-goldman-of-10up-on-merging-wp-and-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WP 6.4 RC2 • WP-CLI 2.9.0 • State of the Word • Theme Custom Settings](https://poststatus.com/wp-6-4-rc2-wp-cli-2-9-0-state-of-the-word-theme-custom-settings/)
 - [Knowing me, knowing you](https://poststatus.com/knowing-me-knowing-you/)
 - [Cory Miller with Marc Benzakein on MainWP](https://poststatus.com/cory-miller-with-marc-benzakein-on-mainwp/)
 - [Business Roundup Week Ending October 20](https://poststatus.com/business-roundup-week-ending-october-20/)
@@ -44,7 +45,6 @@
 - [Member Spotlight: Nyasha Green](https://poststatus.com/member-spotlight-nyasha-green/)
 - [Business Roundup Week Ending September 29](https://poststatus.com/business-roundup-week-ending-september-29/)
 - [WordPress 6.4 • Annual Survey • Stats &amp;amp; Dashboards • Global Sponsorship](https://poststatus.com/wordpress-6-4-annual-survey-stats-dashboards-global-sponsorship/)
-- [Two Worlds of WordPress](https://poststatus.com/two-worlds-of-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -20,6 +20,8 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Launching a WordPress Product in Public: Session 28](https://poststatus.com/launching-a-wordpress-product-in-public-session-28/)
+- [Launching a WordPress Product in Public: Session 27](https://poststatus.com/launching-a-wordpress-product-in-public-session-27/)
 - [Business Roundup Week Ending October 27](https://poststatus.com/business-roundup-week-ending-october-27/)
 - [WP 6.4 RC2 • WP-CLI 2.9.0 • State of the Word • Theme Custom Settings](https://poststatus.com/wp-6-4-rc2-wp-cli-2-9-0-state-of-the-word-theme-custom-settings/)
 - [Knowing me, knowing you](https://poststatus.com/knowing-me-knowing-you/)
@@ -43,8 +45,6 @@
 - [💬 Elevate Your Open Source Understanding with 2 Perspectives: The Business &amp;amp; Economics of Linux and Open Source](https://courtneyr.dev/2023/09/29/2-open-source-contexts/)
 - [Community Roundup Week Ending September 29](https://poststatus.com/community-roundup-week-ending-september-29/)
 - [Jobs &amp;amp; Career Roundup Week Ending September 29](https://poststatus.com/jobs-career-roundup-week-ending-september-29/)
-- [Member Spotlight: Nyasha Green](https://poststatus.com/member-spotlight-nyasha-green/)
-- [Business Roundup Week Ending September 29](https://poststatus.com/business-roundup-week-ending-september-29/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

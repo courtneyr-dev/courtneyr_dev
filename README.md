@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [On funding and business success](https://poststatus.com/on-funding-and-business-success/)
 - [Community Roundup Week Ending October 27](https://poststatus.com/community-roundup-week-ending-october-27/)
 - [Launching a WordPress Product in Public: Session 28](https://poststatus.com/launching-a-wordpress-product-in-public-session-28/)
 - [Launching a WordPress Product in Public: Session 27](https://poststatus.com/launching-a-wordpress-product-in-public-session-27/)
@@ -44,7 +45,6 @@
 - [💬 Open Source CMS and WordPress: The Business Value of Linux and Open Source](https://courtneyr.dev/2023/10/02/open-source-cms-and-wordpress/)
 - [Next Steps to Elevating the Business of WordPress](https://poststatus.com/next-steps-to-elevating-the-business-of-wordpress/)
 - [💬 Elevate Your Open Source Understanding with 2 Perspectives: The Business &amp;amp; Economics of Linux and Open Source](https://courtneyr.dev/2023/09/29/2-open-source-contexts/)
-- [Community Roundup Week Ending September 29](https://poststatus.com/community-roundup-week-ending-september-29/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

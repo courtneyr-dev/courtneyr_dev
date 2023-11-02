@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WP 6.4 RC3 • Help Test • New Plugin: Test Reports](https://poststatus.com/wp-6-4-rc3-help-test-new-plugin-test-reports/)
 - [Member Spotlight: Jeff Betancourt](https://poststatus.com/member-spotlight-jeff-betancourt/)
 - [On funding and business success](https://poststatus.com/on-funding-and-business-success/)
 - [Community Roundup Week Ending October 27](https://poststatus.com/community-roundup-week-ending-october-27/)
@@ -44,7 +45,6 @@
 - [Business Roundup Week Ending October 6](https://poststatus.com/business-roundup-week-ending-october-6/)
 - [Member Spotlight: Corey Maass](https://poststatus.com/member-spotlight-corey-maass/)
 - [💬 Open Source CMS and WordPress: The Business Value of Linux and Open Source](https://courtneyr.dev/2023/10/02/open-source-cms-and-wordpress/)
-- [Next Steps to Elevating the Business of WordPress](https://poststatus.com/next-steps-to-elevating-the-business-of-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

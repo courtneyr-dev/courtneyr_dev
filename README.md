@@ -20,6 +20,8 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Jobs &amp;amp; Career Roundup Week Ending November 10](https://poststatus.com/jobs-career-roundup-week-ending-november-10/)
+- [Member Spotlight: James Lau](https://poststatus.com/member-spotlight-james-lau/)
 - [Business Roundup Week Ending November 10](https://poststatus.com/business-roundup-week-ending-november-10/)
 - [Free versus premium](https://poststatus.com/free-versus-premium/)
 - [Business Roundup Week Ending November 3](https://poststatus.com/business-roundup-week-ending-november-3/)
@@ -43,8 +45,6 @@
 - [Business Roundup Week Ending October 13](https://poststatus.com/business-roundup-week-ending-october-13/)
 - [Just like Spiderman](https://poststatus.com/just-like-spiderman/)
 - [Jobs &amp;amp; Career Roundup Week Ending October 6](https://poststatus.com/jobs-career-roundup-week-ending-october-6/)
-- [Community Roundup Week Ending October 6](https://poststatus.com/community-roundup-week-ending-october-6/)
-- [WP 6.3.2 RC1 &amp;amp; 6.4 Beta 2 • Plugin Live Demo • Stats &amp;amp; Dashboards • Test Fonts](https://poststatus.com/wp-6-3-2-rc1-6-4-beta-2-plugin-live-demo-stats-dashboards-test-fonts/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

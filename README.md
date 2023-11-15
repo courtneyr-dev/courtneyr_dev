@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Why marketers should not try to measure everything](https://poststatus.com/why-marketers-should-not-try-to-measure-everything/)
 - [WP 6.4.1 • 2024 Release Timing • Merge Performant Translations](https://poststatus.com/wp-6-4-1-2024-release-timing-merge-performant-translations/)
 - [Community Roundup Week Ending November 10](https://poststatus.com/community-roundup-week-ending-november-10/)
 - [Jobs &amp;amp; Career Roundup Week Ending November 10](https://poststatus.com/jobs-career-roundup-week-ending-november-10/)
@@ -44,7 +45,6 @@
 - [On people breaking up with WordPress](https://poststatus.com/on-people-breaking-up-with-wordpress/)
 - [Launching a WordPress Product in Public: Session 26](https://poststatus.com/launching-a-wordpress-product-in-public-session-26/)
 - [WP 6.3.2 &amp;amp; 6.4 Beta 4 • WP CLI • Showcase • Header/Footer](https://poststatus.com/wp-6-3-2-6-4-beta-4-wp-cli-showcase-header-footer/)
-- [Business Roundup Week Ending October 13](https://poststatus.com/business-roundup-week-ending-october-13/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

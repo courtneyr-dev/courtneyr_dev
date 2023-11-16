@@ -20,6 +20,8 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Jobs &amp;amp; Career Roundup Week Ending November 17](https://poststatus.com/jobs-career-roundup-week-ending-november-17/)
+- [Member Spotlight: Katie Keith](https://poststatus.com/member-spotlight-katie-keith/)
 - [Why marketers should not try to measure everything](https://poststatus.com/why-marketers-should-not-try-to-measure-everything/)
 - [WP 6.4.1 • 2024 Release Timing • Merge Performant Translations](https://poststatus.com/wp-6-4-1-2024-release-timing-merge-performant-translations/)
 - [Community Roundup Week Ending November 10](https://poststatus.com/community-roundup-week-ending-november-10/)
@@ -43,8 +45,6 @@
 - [Business Roundup Week Ending October 20](https://poststatus.com/business-roundup-week-ending-october-20/)
 - [WP 6.4 RC1 • Support Forum Guidelines • Playground PR Preview &amp;amp; Beta/RC](https://poststatus.com/wp-6-4-rc1-support-forum-guidelines-playground-pr-preview-beta-rc/)
 - [On people breaking up with WordPress](https://poststatus.com/on-people-breaking-up-with-wordpress/)
-- [Launching a WordPress Product in Public: Session 26](https://poststatus.com/launching-a-wordpress-product-in-public-session-26/)
-- [WP 6.3.2 &amp;amp; 6.4 Beta 4 • WP CLI • Showcase • Header/Footer](https://poststatus.com/wp-6-3-2-6-4-beta-4-wp-cli-showcase-header-footer/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

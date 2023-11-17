@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Business Roundup Week Ending November 17](https://poststatus.com/business-roundup-week-ending-november-17/)
 - [Community Roundup Week Ending November 17](https://poststatus.com/community-roundup-week-ending-november-17/)
 - [WP 6.4 PHP Compatibility, Performance Improvements, Retrospective • Twenty Twenty Four](https://poststatus.com/wp-6-4-php-compatibility-performance-improvements-retrospective-twenty-twenty-four/)
 - [Jobs &amp;amp; Career Roundup Week Ending November 17](https://poststatus.com/jobs-career-roundup-week-ending-november-17/)
@@ -44,7 +45,6 @@
 - [WP 6.4 RC2 • WP-CLI 2.9.0 • State of the Word • Theme Custom Settings](https://poststatus.com/wp-6-4-rc2-wp-cli-2-9-0-state-of-the-word-theme-custom-settings/)
 - [Knowing me, knowing you](https://poststatus.com/knowing-me-knowing-you/)
 - [Cory Miller with Marc Benzakein on MainWP](https://poststatus.com/cory-miller-with-marc-benzakein-on-mainwp/)
-- [Business Roundup Week Ending October 20](https://poststatus.com/business-roundup-week-ending-october-20/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

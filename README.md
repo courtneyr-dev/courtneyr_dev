@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Member Spotlight: Howard Spaeth](https://poststatus.com/member-spotlight-howard-spaeth/)
 - [On sponsored talks, paid talks, and WordCamps](https://poststatus.com/on-sponsored-talks-paid-talks-and-wordcamps/)
 - [Michelle Frechette and Matt Medeiros on How to be a Good Podcast Guest](https://poststatus.com/michelle-frechette-and-matt-medeiros-on-how-to-be-a-good-podcast-guest/)
 - [Launching a WordPress Product in Public: Session 29](https://poststatus.com/launching-a-wordpress-product-in-public-session-28-2/)
@@ -44,7 +45,6 @@
 - [Community Roundup Week Ending October 27](https://poststatus.com/community-roundup-week-ending-october-27/)
 - [Launching a WordPress Product in Public: Session 28](https://poststatus.com/launching-a-wordpress-product-in-public-session-28/)
 - [Launching a WordPress Product in Public: Session 27](https://poststatus.com/launching-a-wordpress-product-in-public-session-27/)
-- [Business Roundup Week Ending October 27](https://poststatus.com/business-roundup-week-ending-october-27/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

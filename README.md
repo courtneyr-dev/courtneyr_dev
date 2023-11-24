@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Launching a WordPress Product in Public: Session 30](https://poststatus.com/launching-a-wordpress-product-in-public-session-30/)
 - [WordPress Plugin Directory Preview Relaunches • Modules &amp;amp; Import Maps • PHP 8.3](https://poststatus.com/wordpress-plugin-directory-preview-relaunches-modules-import-maps-php-8-3/)
 - [Business Roundup Week Ending November 24](https://poststatus.com/business-roundup-week-ending-november-24/)
 - [Member Spotlight: Howard Spaeth](https://poststatus.com/member-spotlight-howard-spaeth/)
@@ -44,7 +45,6 @@
 - [WP 6.4 RC3 • Help Test • New Plugin: Test Reports](https://poststatus.com/wp-6-4-rc3-help-test-new-plugin-test-reports/)
 - [Member Spotlight: Jeff Betancourt](https://poststatus.com/member-spotlight-jeff-betancourt/)
 - [On funding and business success](https://poststatus.com/on-funding-and-business-success/)
-- [Community Roundup Week Ending October 27](https://poststatus.com/community-roundup-week-ending-october-27/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

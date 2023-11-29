@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Gender diversity in the WordPress community versus the WordPress boardrooms](https://poststatus.com/gender-diversity-in-the-wordpress-community-versus-the-wordpress-boardrooms/)
 - [Member Spotlight: Anil Gupta](https://poststatus.com/member-spotlight-anil-gupta/)
 - [Jobs &amp;amp; Career Roundup Week Ending November 24](https://poststatus.com/jobs-career-roundup-week-ending-november-24/)
 - [Community Roundup Week Ending November 24](https://poststatus.com/community-roundup-week-ending-november-24/)
@@ -44,7 +45,6 @@
 - [Free versus premium](https://poststatus.com/free-versus-premium/)
 - [Business Roundup Week Ending November 3](https://poststatus.com/business-roundup-week-ending-november-3/)
 - [Jobs &amp;amp; Career Roundup Week Ending November 3](https://poststatus.com/jobs-career-roundup-week-ending-november-3/)
-- [Community Roundup Week Ending November 3](https://poststatus.com/community-roundup-week-ending-november-3/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

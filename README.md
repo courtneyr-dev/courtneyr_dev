@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [X-post: Create Tours for Make P2s](https://make.wordpress.org/training/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Gender diversity in the WordPress community versus the WordPress boardrooms](https://poststatus.com/gender-diversity-in-the-wordpress-community-versus-the-wordpress-boardrooms/)
 - [Member Spotlight: Anil Gupta](https://poststatus.com/member-spotlight-anil-gupta/)
 - [Jobs &amp;amp; Career Roundup Week Ending November 24](https://poststatus.com/jobs-career-roundup-week-ending-november-24/)
@@ -44,7 +45,6 @@
 - [Business Roundup Week Ending November 10](https://poststatus.com/business-roundup-week-ending-november-10/)
 - [Free versus premium](https://poststatus.com/free-versus-premium/)
 - [Business Roundup Week Ending November 3](https://poststatus.com/business-roundup-week-ending-november-3/)
-- [Jobs &amp;amp; Career Roundup Week Ending November 3](https://poststatus.com/jobs-career-roundup-week-ending-november-3/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

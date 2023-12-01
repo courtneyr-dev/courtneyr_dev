@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Business Roundup Week Ending December 1](https://poststatus.com/business-roundup-week-ending-december-1/)
 - [WordCamp Sponsor Demo Tracks • Matrix Chat • Redesigning Dev Resources](https://poststatus.com/wordcamp-sponsor-demo-tracks-matrix-chat-redesigning-dev-resources/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/training/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Gender diversity in the WordPress community versus the WordPress boardrooms](https://poststatus.com/gender-diversity-in-the-wordpress-community-versus-the-wordpress-boardrooms/)
@@ -44,7 +45,6 @@
 - [Jobs &amp;amp; Career Roundup Week Ending November 10](https://poststatus.com/jobs-career-roundup-week-ending-november-10/)
 - [Member Spotlight: James Lau](https://poststatus.com/member-spotlight-james-lau/)
 - [Business Roundup Week Ending November 10](https://poststatus.com/business-roundup-week-ending-november-10/)
-- [Free versus premium](https://poststatus.com/free-versus-premium/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

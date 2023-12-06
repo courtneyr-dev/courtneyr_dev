@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Agile all the way](https://poststatus.com/agile-all-the-way/)
 - [PHPCS, a major PHP library, needs support](https://poststatus.com/phpcs-a-major-php-library-needs-support/)
 - [Marketing a WordPress Product Live: Session 1](https://poststatus.com/marketing-a-wordpress-product-live-session-1/)
 - [Community Roundup Week Ending December 1](https://poststatus.com/community-roundup-week-ending-december-1/)
@@ -44,7 +45,6 @@
 - [Jobs &amp;amp; Career Roundup Week Ending November 17](https://poststatus.com/jobs-career-roundup-week-ending-november-17/)
 - [Member Spotlight: Katie Keith](https://poststatus.com/member-spotlight-katie-keith/)
 - [Why marketers should not try to measure everything](https://poststatus.com/why-marketers-should-not-try-to-measure-everything/)
-- [WP 6.4.1 • 2024 Release Timing • Merge Performant Translations](https://poststatus.com/wp-6-4-1-2024-release-timing-merge-performant-translations/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

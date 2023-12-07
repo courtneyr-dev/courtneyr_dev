@@ -20,6 +20,9 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Jobs &amp;amp; Career Roundup Week Ending December 8](https://poststatus.com/jobs-career-roundup-week-ending-december-8/)
+- [Community Roundup Week Ending December 8](https://poststatus.com/community-roundup-week-ending-december-8/)
+- [Member Spotlight: Varun Dubey](https://poststatus.com/member-spotlight-varun-dubey/)
 - [Agile all the way](https://poststatus.com/agile-all-the-way/)
 - [PHPCS, a major PHP library, needs support](https://poststatus.com/phpcs-a-major-php-library-needs-support/)
 - [Marketing a WordPress Product Live: Session 1](https://poststatus.com/marketing-a-wordpress-product-live-session-1/)
@@ -42,9 +45,6 @@
 - [Business Roundup Week Ending November 17](https://poststatus.com/business-roundup-week-ending-november-17/)
 - [Community Roundup Week Ending November 17](https://poststatus.com/community-roundup-week-ending-november-17/)
 - [WP 6.4 PHP Compatibility, Performance Improvements, Retrospective • Twenty Twenty Four](https://poststatus.com/wp-6-4-php-compatibility-performance-improvements-retrospective-twenty-twenty-four/)
-- [Jobs &amp;amp; Career Roundup Week Ending November 17](https://poststatus.com/jobs-career-roundup-week-ending-november-17/)
-- [Member Spotlight: Katie Keith](https://poststatus.com/member-spotlight-katie-keith/)
-- [Why marketers should not try to measure everything](https://poststatus.com/why-marketers-should-not-try-to-measure-everything/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

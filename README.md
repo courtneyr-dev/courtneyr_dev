@@ -20,6 +20,8 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Post Status Draft – Interview with Amber Hinds on WordPress Web Accessibility](https://poststatus.com/post-status-draft-interview-with-amber-hinds-on-wordpress-web-accessibility/)
+- [Marketing a WordPress Product Live: Session 2](https://poststatus.com/marketing-a-wordpress-product-live-session-2/)
 - [Business Roundup Week Ending December 8](https://poststatus.com/business-roundup-week-ending-december-8/)
 - [Jobs &amp;amp; Career Roundup Week Ending December 8](https://poststatus.com/jobs-career-roundup-week-ending-december-8/)
 - [Community Roundup Week Ending December 8](https://poststatus.com/community-roundup-week-ending-december-8/)
@@ -43,8 +45,6 @@
 - [On sponsored talks, paid talks, and WordCamps](https://poststatus.com/on-sponsored-talks-paid-talks-and-wordcamps/)
 - [Michelle Frechette and Matt Medeiros on How to be a Good Podcast Guest](https://poststatus.com/michelle-frechette-and-matt-medeiros-on-how-to-be-a-good-podcast-guest/)
 - [Launching a WordPress Product in Public: Session 29](https://poststatus.com/launching-a-wordpress-product-in-public-session-28-2/)
-- [Business Roundup Week Ending November 17](https://poststatus.com/business-roundup-week-ending-november-17/)
-- [Community Roundup Week Ending November 17](https://poststatus.com/community-roundup-week-ending-november-17/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

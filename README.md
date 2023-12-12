@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [State of the Word 2023: excitement all around!](https://poststatus.com/state-of-the-word-2023-excitement-all-around/)
 - [WordPress 6.4.2 • Security Team Scams • Roadmap to 6.5 • Plugin Previews • Goodbye Slack, Hello Matrix](https://poststatus.com/wordpress-6-4-2-security-team-scams-roadmap-to-6-5-plugin-previews-goodbye-slack-hello-matrix/)
 - [Post Status Draft – Interview with Amber Hinds on WordPress Web Accessibility](https://poststatus.com/post-status-draft-interview-with-amber-hinds-on-wordpress-web-accessibility/)
 - [Marketing a WordPress Product Live: Session 2](https://poststatus.com/marketing-a-wordpress-product-live-session-2/)
@@ -44,7 +45,6 @@
 - [Business Roundup Week Ending November 24](https://poststatus.com/business-roundup-week-ending-november-24/)
 - [Member Spotlight: Howard Spaeth](https://poststatus.com/member-spotlight-howard-spaeth/)
 - [On sponsored talks, paid talks, and WordCamps](https://poststatus.com/on-sponsored-talks-paid-talks-and-wordcamps/)
-- [Michelle Frechette and Matt Medeiros on How to be a Good Podcast Guest](https://poststatus.com/michelle-frechette-and-matt-medeiros-on-how-to-be-a-good-podcast-guest/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

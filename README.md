@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Matrix Migration Paused • New Requirement for Themes Settings • New WordPress Events Page • WPCS 3.0.1 Released](https://poststatus.com/matrix-migration-paused-new-requirement-for-themes-settings-new-wordpress-events-page-wpcs-3-0-1-released/)
 - [Jobs &amp;amp; Career Roundup Week Ending December 15](https://poststatus.com/jobs-career-roundup-week-ending-december-15/)
 - [Community Roundup Week Ending December 15](https://poststatus.com/community-roundup-week-ending-december-15/)
 - [Member Spotlight: Matt Medeiros](https://poststatus.com/member-spotlight-matt-medeiros/)
@@ -44,7 +45,6 @@
 - [Member Spotlight: Anil Gupta](https://poststatus.com/member-spotlight-anil-gupta/)
 - [Jobs &amp;amp; Career Roundup Week Ending November 24](https://poststatus.com/jobs-career-roundup-week-ending-november-24/)
 - [Community Roundup Week Ending November 24](https://poststatus.com/community-roundup-week-ending-november-24/)
-- [Launching a WordPress Product in Public: Session 30](https://poststatus.com/launching-a-wordpress-product-in-public-session-30/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

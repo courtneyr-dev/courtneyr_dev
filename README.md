@@ -20,6 +20,8 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Jobs &amp;amp; Career Roundup Week Ending December 15](https://poststatus.com/jobs-career-roundup-week-ending-december-15/)
+- [Community Roundup Week Ending December 15](https://poststatus.com/community-roundup-week-ending-december-15/)
 - [Member Spotlight: Matt Medeiros](https://poststatus.com/member-spotlight-matt-medeiros/)
 - [Open source beyond WordPress](https://poststatus.com/open-source-beyond-wordpress/)
 - [State of the Word 2023: excitement all around!](https://poststatus.com/state-of-the-word-2023-excitement-all-around/)
@@ -43,8 +45,6 @@
 - [Jobs &amp;amp; Career Roundup Week Ending November 24](https://poststatus.com/jobs-career-roundup-week-ending-november-24/)
 - [Community Roundup Week Ending November 24](https://poststatus.com/community-roundup-week-ending-november-24/)
 - [Launching a WordPress Product in Public: Session 30](https://poststatus.com/launching-a-wordpress-product-in-public-session-30/)
-- [WordPress Plugin Directory Preview Relaunches • Modules &amp;amp; Import Maps • PHP 8.3](https://poststatus.com/wordpress-plugin-directory-preview-relaunches-modules-import-maps-php-8-3/)
-- [Business Roundup Week Ending November 24](https://poststatus.com/business-roundup-week-ending-november-24/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

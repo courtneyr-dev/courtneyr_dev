@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Business Roundup Week Ending December 22](https://poststatus.com/business-roundup-week-ending-december-22/)
 - [Member Spotlight: Jennifer Schramm](https://poststatus.com/member-spotlight-jennifer-schramm/)
 - [Looking back on 2023](https://poststatus.com/looking-back-on-2023/)
 - [Post Status Draft – Roger Rosweide on Website as a Service](https://poststatus.com/post-status-draft-roger-rosweide-on-website-as-a-service/)
@@ -44,7 +45,6 @@
 - [Community Roundup Week Ending December 1](https://poststatus.com/community-roundup-week-ending-december-1/)
 - [Jobs &amp;amp; Career Roundup Week Ending December 1](https://poststatus.com/jobs-career-roundup-week-ending-december-1/)
 - [Business Roundup Week Ending December 1](https://poststatus.com/business-roundup-week-ending-december-1/)
-- [WordCamp Sponsor Demo Tracks • Matrix Chat • Redesigning Dev Resources](https://poststatus.com/wordcamp-sponsor-demo-tracks-matrix-chat-redesigning-dev-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

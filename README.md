@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Business Roundup Week Ending December 29](https://poststatus.com/business-roundup-week-ending-december-29/)
 - [Jobs &amp;amp; Career Roundup Week Ending December 22](https://poststatus.com/jobs-career-roundup-week-ending-december-22/)
 - [Community Roundup Week Ending December 22](https://poststatus.com/community-roundup-week-ending-december-22/)
 - [Join Plugin Review Team • Showcase Accessibility • Modern NPM • WP Performance on Core Web Vitals](https://poststatus.com/join-plugin-review-team-showcase-accessibility-modern-npm-wp-performance-on-core-web-vitals/)
@@ -44,7 +45,6 @@
 - [Member Spotlight: Varun Dubey](https://poststatus.com/member-spotlight-varun-dubey/)
 - [Agile all the way](https://poststatus.com/agile-all-the-way/)
 - [PHPCS, a major PHP library, needs support](https://poststatus.com/phpcs-a-major-php-library-needs-support/)
-- [Marketing a WordPress Product Live: Session 1](https://poststatus.com/marketing-a-wordpress-product-live-session-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

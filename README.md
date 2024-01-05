@@ -20,6 +20,8 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Jobs &amp;amp; Career Roundup Week Ending January 5](https://poststatus.com/jobs-career-roundup-week-ending-january-5/)
+- [Member Spotlight: Richard Gorbutt](https://poststatus.com/member-spotlight-richard-gorbutt/)
 - [Business Roundup Week Ending January 5](https://poststatus.com/business-roundup-week-ending-january-5/)
 - [Business Roundup Week Ending December 29](https://poststatus.com/business-roundup-week-ending-december-29/)
 - [Jobs &amp;amp; Career Roundup Week Ending December 22](https://poststatus.com/jobs-career-roundup-week-ending-december-22/)
@@ -43,8 +45,6 @@
 - [Business Roundup Week Ending December 8](https://poststatus.com/business-roundup-week-ending-december-8/)
 - [Jobs &amp;amp; Career Roundup Week Ending December 8](https://poststatus.com/jobs-career-roundup-week-ending-december-8/)
 - [Community Roundup Week Ending December 8](https://poststatus.com/community-roundup-week-ending-december-8/)
-- [Member Spotlight: Varun Dubey](https://poststatus.com/member-spotlight-varun-dubey/)
-- [Agile all the way](https://poststatus.com/agile-all-the-way/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

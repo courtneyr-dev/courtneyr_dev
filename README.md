@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Why raise capital?](https://poststatus.com/why-raise-capital/)
 - [Community Roundup Week Ending January 5](https://poststatus.com/community-roundup-week-ending-january-5/)
 - [Jobs &amp;amp; Career Roundup Week Ending January 5](https://poststatus.com/jobs-career-roundup-week-ending-january-5/)
 - [Member Spotlight: Richard Gorbutt](https://poststatus.com/member-spotlight-richard-gorbutt/)
@@ -44,7 +45,6 @@
 - [Post Status Draft – Interview with Amber Hinds on WordPress Web Accessibility](https://poststatus.com/post-status-draft-interview-with-amber-hinds-on-wordpress-web-accessibility/)
 - [Marketing a WordPress Product Live: Session 2](https://poststatus.com/marketing-a-wordpress-product-live-session-2/)
 - [Business Roundup Week Ending December 8](https://poststatus.com/business-roundup-week-ending-december-8/)
-- [Jobs &amp;amp; Career Roundup Week Ending December 8](https://poststatus.com/jobs-career-roundup-week-ending-december-8/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Community Roundup Week Ending January 12](https://poststatus.com/community-roundup-week-ending-january-12/)
 - [Jobs &amp;amp; Career Roundup Week Ending January 12](https://poststatus.com/jobs-career-roundup-week-ending-january-12/)
 - [Member Spotlight: Justin Ferriman](https://poststatus.com/member-spotlight-justin-ferriman/)
 - [Why raise capital?](https://poststatus.com/why-raise-capital/)
@@ -44,7 +45,6 @@
 - [Open source beyond WordPress](https://poststatus.com/open-source-beyond-wordpress/)
 - [State of the Word 2023: excitement all around!](https://poststatus.com/state-of-the-word-2023-excitement-all-around/)
 - [WordPress 6.4.2 • Security Team Scams • Roadmap to 6.5 • Plugin Previews • Goodbye Slack, Hello Matrix](https://poststatus.com/wordpress-6-4-2-security-team-scams-roadmap-to-6-5-plugin-previews-goodbye-slack-hello-matrix/)
-- [Post Status Draft – Interview with Amber Hinds on WordPress Web Accessibility](https://poststatus.com/post-status-draft-interview-with-amber-hinds-on-wordpress-web-accessibility/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

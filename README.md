@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [2024 Global Sponsors • Agency Outreach • PHPCS 3.8.1 • DevHub Refresh](https://poststatus.com/2024-global-sponsors-agency-outreach-phpcs-3-8-1-devhub-refresh/)
 - [Community Roundup Week Ending January 12](https://poststatus.com/community-roundup-week-ending-january-12/)
 - [Jobs &amp;amp; Career Roundup Week Ending January 12](https://poststatus.com/jobs-career-roundup-week-ending-january-12/)
 - [Member Spotlight: Justin Ferriman](https://poststatus.com/member-spotlight-justin-ferriman/)
@@ -44,7 +45,6 @@
 - [Member Spotlight: Matt Medeiros](https://poststatus.com/member-spotlight-matt-medeiros/)
 - [Open source beyond WordPress](https://poststatus.com/open-source-beyond-wordpress/)
 - [State of the Word 2023: excitement all around!](https://poststatus.com/state-of-the-word-2023-excitement-all-around/)
-- [WordPress 6.4.2 • Security Team Scams • Roadmap to 6.5 • Plugin Previews • Goodbye Slack, Hello Matrix](https://poststatus.com/wordpress-6-4-2-security-team-scams-roadmap-to-6-5-plugin-previews-goodbye-slack-hello-matrix/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Why is open source so very cool?](https://poststatus.com/why-is-open-source-so-very-cool/)
 - [Business Roundup Week Ending January 12](https://poststatus.com/business-roundup-week-ending-january-12/)
 - [2024 Global Sponsors • Agency Outreach • PHPCS 3.8.1 • DevHub Refresh](https://poststatus.com/2024-global-sponsors-agency-outreach-phpcs-3-8-1-devhub-refresh/)
 - [Community Roundup Week Ending January 12](https://poststatus.com/community-roundup-week-ending-january-12/)
@@ -44,7 +45,6 @@
 - [Jobs &amp;amp; Career Roundup Week Ending December 15](https://poststatus.com/jobs-career-roundup-week-ending-december-15/)
 - [Community Roundup Week Ending December 15](https://poststatus.com/community-roundup-week-ending-december-15/)
 - [Member Spotlight: Matt Medeiros](https://poststatus.com/member-spotlight-matt-medeiros/)
-- [Open source beyond WordPress](https://poststatus.com/open-source-beyond-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

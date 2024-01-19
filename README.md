@@ -20,6 +20,7 @@
 
 ## 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 6.5 Milestones • Partially Synched Patterns &amp;gt; Overrides • WP-CLI in Playground • Events Page Feedback • Farewell Jill • Incident Reports Recap](https://poststatus.com/wordpress-6-5-milestones-events-page-feedback-farewell-jill-incident-reports-recap/)
 - [Business Roundup Week Ending January 19](https://poststatus.com/business-roundup-week-ending-january-19/)
 - [Why is open source so very cool?](https://poststatus.com/why-is-open-source-so-very-cool/)
 - [Business Roundup Week Ending January 12](https://poststatus.com/business-roundup-week-ending-january-12/)
@@ -44,7 +45,6 @@
 - [Business Roundup Week Ending December 15](https://poststatus.com/business-roundup-week-ending-december-15/)
 - [Matrix Migration Paused • New Requirement for Themes Settings • New WordPress Events Page • WPCS 3.0.1 Released](https://poststatus.com/matrix-migration-paused-new-requirement-for-themes-settings-new-wordpress-events-page-wpcs-3-0-1-released/)
 - [Jobs &amp;amp; Career Roundup Week Ending December 15](https://poststatus.com/jobs-career-roundup-week-ending-december-15/)
-- [Community Roundup Week Ending December 15](https://poststatus.com/community-roundup-week-ending-december-15/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -13,7 +13,7 @@
 
  📝 I regularly write articles on [WordPress Training Team](https://make.wordpress.org/training/author/courane01), [GoDaddy Blog](https://www.godaddy.com/garage/author/crobertson/), [Post Status](https://poststatus.com/author/courtney/) 
 
- 🎻 Fun facts **I play a 7 string electric violin as well as a traditional violin and mandolin, 3D print, grow lots of food, and am a competitive swimmer**
+ 🎻 Fun facts **I play a 7 string electric violin, 5 string electric mandolin, as well as a traditional violin and mandolin, 3D print, grow lots of food, and am a competitive swimmer**
  
 👩🏻‍💻 Pronouns: she/her/hers
 
@@ -48,6 +48,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <p align="left">
 <a href="https://courtneyr.dev/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://courtneyr.dev/feed" height="30" width="40" /></a>
 <a href="https://profiles.wordpress.org/courane01" target="blank"><img align="center" src="https://github.com/courtneyr-dev/courtneyr-dev/blob/main/images/wordpress.png?raw=true" alt="https://https://profiles.wordpress.org/courane01" height="40" width="40" /></a>

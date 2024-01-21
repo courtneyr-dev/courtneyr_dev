@@ -19,6 +19,7 @@
 
 
 ## 📝 &nbsp;**Latest Blog Posts**
+<a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
 - [WordPress 6.5 Milestones • Partially Synched Patterns &amp;gt; Overrides • WP-CLI in Playground • Events Page Feedback • Farewell Jill • Incident Reports Recap](https://poststatus.com/wordpress-6-5-milestones-events-page-feedback-farewell-jill-incident-reports-recap/)
 - [Business Roundup Week Ending January 19](https://poststatus.com/business-roundup-week-ending-january-19/)
@@ -48,7 +49,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <p align="left">
 <a href="https://courtneyr.dev/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://courtneyr.dev/feed" height="30" width="40" /></a>
 <a href="https://profiles.wordpress.org/courane01" target="blank"><img align="center" src="https://github.com/courtneyr-dev/courtneyr-dev/blob/main/images/wordpress.png?raw=true" alt="https://https://profiles.wordpress.org/courane01" height="40" width="40" /></a>

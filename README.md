@@ -21,6 +21,9 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Community Roundup Week Ending January 19](https://poststatus.com/community-roundup-week-ending-january-19/)
+- [Jobs &amp;amp; Career Roundup Week Ending January 19](https://poststatus.com/jobs-career-roundup-week-ending-january-19/)
+- [Member Spotlight: Zach Stepek](https://poststatus.com/member-spotlight-zach-stepek/)
 - [WordPress 6.5 Milestones • Partially Synched Patterns &amp;gt; Overrides • WP-CLI in Playground • Events Page Feedback • Farewell Jill • Incident Reports Recap](https://poststatus.com/wordpress-6-5-milestones-events-page-feedback-farewell-jill-incident-reports-recap/)
 - [Business Roundup Week Ending January 19](https://poststatus.com/business-roundup-week-ending-january-19/)
 - [Why is open source so very cool?](https://poststatus.com/why-is-open-source-so-very-cool/)
@@ -43,9 +46,6 @@
 - [Looking back on 2023](https://poststatus.com/looking-back-on-2023/)
 - [Post Status Draft – Roger Rosweide on Website as a Service](https://poststatus.com/post-status-draft-roger-rosweide-on-website-as-a-service/)
 - [Marketing a WordPress Product Live: Session 3](https://poststatus.com/marketing-a-wordpress-product-live-session-3/)
-- [Business Roundup Week Ending December 15](https://poststatus.com/business-roundup-week-ending-december-15/)
-- [Matrix Migration Paused • New Requirement for Themes Settings • New WordPress Events Page • WPCS 3.0.1 Released](https://poststatus.com/matrix-migration-paused-new-requirement-for-themes-settings-new-wordpress-events-page-wpcs-3-0-1-released/)
-- [Jobs &amp;amp; Career Roundup Week Ending December 15](https://poststatus.com/jobs-career-roundup-week-ending-december-15/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

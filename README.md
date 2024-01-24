@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Two types of public speakers](https://poststatus.com/two-types-of-public-speakers/)
 - [Community Roundup Week Ending January 19](https://poststatus.com/community-roundup-week-ending-january-19/)
 - [Jobs &amp;amp; Career Roundup Week Ending January 19](https://poststatus.com/jobs-career-roundup-week-ending-january-19/)
 - [Member Spotlight: Zach Stepek](https://poststatus.com/member-spotlight-zach-stepek/)
@@ -45,7 +46,6 @@
 - [Member Spotlight: Jennifer Schramm](https://poststatus.com/member-spotlight-jennifer-schramm/)
 - [Looking back on 2023](https://poststatus.com/looking-back-on-2023/)
 - [Post Status Draft – Roger Rosweide on Website as a Service](https://poststatus.com/post-status-draft-roger-rosweide-on-website-as-a-service/)
-- [Marketing a WordPress Product Live: Session 3](https://poststatus.com/marketing-a-wordpress-product-live-session-3/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

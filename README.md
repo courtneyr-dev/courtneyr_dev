@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [5ftF Proposed Updates • Meetup Alternative GatherPress • Phase 3 Media • Translation Process Challenges • WP 6.5 Milestones](https://poststatus.com/5ftf-proposed-updates-meetup-alternative-gatherpress-phase-3-media-translation-process-challenges-wp-6-5-milestones/)
 - [Two types of public speakers](https://poststatus.com/two-types-of-public-speakers/)
 - [Community Roundup Week Ending January 19](https://poststatus.com/community-roundup-week-ending-january-19/)
 - [Jobs &amp;amp; Career Roundup Week Ending January 19](https://poststatus.com/jobs-career-roundup-week-ending-january-19/)
@@ -45,7 +46,6 @@
 - [Business Roundup Week Ending December 22](https://poststatus.com/business-roundup-week-ending-december-22/)
 - [Member Spotlight: Jennifer Schramm](https://poststatus.com/member-spotlight-jennifer-schramm/)
 - [Looking back on 2023](https://poststatus.com/looking-back-on-2023/)
-- [Post Status Draft – Roger Rosweide on Website as a Service](https://poststatus.com/post-status-draft-roger-rosweide-on-website-as-a-service/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

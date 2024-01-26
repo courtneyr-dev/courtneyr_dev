@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Post Status Draft – Omnisend’s Greg Zakowicz Discusses E-commerce Trends in Email Marketing, SMS, and Push NotificationsPost Status Draft](https://poststatus.com/post-status-draft-omnisends-greg-zakowicz-discusses-e-commerce-trends-in-email-marketing-sms-and-push-notificationspost-status-draft/)
 - [5ftF Proposed Updates • Meetup Alternative GatherPress • Phase 3 Media • Translation Process Challenges • WP 6.5 Milestones](https://poststatus.com/5ftf-proposed-updates-meetup-alternative-gatherpress-phase-3-media-translation-process-challenges-wp-6-5-milestones/)
 - [Two types of public speakers](https://poststatus.com/two-types-of-public-speakers/)
 - [Community Roundup Week Ending January 19](https://poststatus.com/community-roundup-week-ending-january-19/)
@@ -45,7 +46,6 @@
 - [Join Plugin Review Team • Showcase Accessibility • Modern NPM • WP Performance on Core Web Vitals](https://poststatus.com/join-plugin-review-team-showcase-accessibility-modern-npm-wp-performance-on-core-web-vitals/)
 - [Business Roundup Week Ending December 22](https://poststatus.com/business-roundup-week-ending-december-22/)
 - [Member Spotlight: Jennifer Schramm](https://poststatus.com/member-spotlight-jennifer-schramm/)
-- [Looking back on 2023](https://poststatus.com/looking-back-on-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

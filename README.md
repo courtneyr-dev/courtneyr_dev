@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Business Roundup Week Ending January 26](https://poststatus.com/business-roundup-week-ending-january-26/)
 - [Community Roundup Week Ending January 26](https://poststatus.com/community-roundup-week-ending-january-26/)
 - [Jobs &amp;amp; Career Roundup Week Ending January 19](https://poststatus.com/jobs-career-roundup-week-ending-january-19-2/)
 - [Member Spotlight: David McCan](https://poststatus.com/member-spotlight-david-mccan/)
@@ -45,7 +46,6 @@
 - [Business Roundup Week Ending January 5](https://poststatus.com/business-roundup-week-ending-january-5/)
 - [Business Roundup Week Ending December 29](https://poststatus.com/business-roundup-week-ending-december-29/)
 - [Jobs &amp;amp; Career Roundup Week Ending December 22](https://poststatus.com/jobs-career-roundup-week-ending-december-22/)
-- [Community Roundup Week Ending December 22](https://poststatus.com/community-roundup-week-ending-december-22/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

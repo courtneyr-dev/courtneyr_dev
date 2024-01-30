@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Post Status Draft – Empowering LGBTQ+ folks in WordPress](https://poststatus.com/post-status-draft-empowering-lgbtq-folks-in-wordpress/)
 - [Post Status Draft – WordPress: A Deep Dive into Passion and Strife: Special Co-Hosted Episode w/ The WP Minute](https://poststatus.com/post-status-draft-wordpress-a-deep-dive-into-passion-and-strife-special-co-hosted-episode-w-the-wp-minute/)
 - [Business Roundup Week Ending January 26](https://poststatus.com/business-roundup-week-ending-january-26/)
 - [Community Roundup Week Ending January 26](https://poststatus.com/community-roundup-week-ending-january-26/)
@@ -45,7 +46,6 @@
 - [Jobs &amp;amp; Career Roundup Week Ending January 5](https://poststatus.com/jobs-career-roundup-week-ending-january-5/)
 - [Member Spotlight: Richard Gorbutt](https://poststatus.com/member-spotlight-richard-gorbutt/)
 - [Business Roundup Week Ending January 5](https://poststatus.com/business-roundup-week-ending-january-5/)
-- [Business Roundup Week Ending December 29](https://poststatus.com/business-roundup-week-ending-december-29/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 6.4.3 • Zips Not Uploading • 6.5 Release Schedules • Better Props Tracking • Playground + Site Health for Support](https://poststatus.com/wordpress-6-4-3-zips-not-uploading-6-5-release-schedules-better-props-tracking-playground-site-health-for-support/)
 - [Member Spotlight: Vito Peleg](https://poststatus.com/member-spotlight-vito-peleg/)
 - [Finding the WordPress Nash Equilibrium](https://poststatus.com/finding-the-wordpress-nash-equilibrium/)
 - [Post Status Draft – Empowering LGBTQ+ folks in WordPress](https://poststatus.com/post-status-draft-empowering-lgbtq-folks-in-wordpress/)
@@ -45,7 +46,6 @@
 - [Member Spotlight: Justin Ferriman](https://poststatus.com/member-spotlight-justin-ferriman/)
 - [Why raise capital?](https://poststatus.com/why-raise-capital/)
 - [Community Roundup Week Ending January 5](https://poststatus.com/community-roundup-week-ending-january-5/)
-- [Jobs &amp;amp; Career Roundup Week Ending January 5](https://poststatus.com/jobs-career-roundup-week-ending-january-5/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

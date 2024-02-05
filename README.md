@@ -33,6 +33,7 @@
 - [Member Spotlight: David McCan](https://poststatus.com/member-spotlight-david-mccan/)
 - [Post Status Draft – Omnisend’s Greg Zakowicz Discusses E-commerce Trends in Email Marketing, SMS, and Push NotificationsPost Status Draft](https://poststatus.com/post-status-draft-omnisends-greg-zakowicz-discusses-e-commerce-trends-in-email-marketing-sms-and-push-notificationspost-status-draft/)
 - [5ftF Proposed Updates • Meetup Alternative GatherPress • Phase 3 Media • Translation Process Challenges • WP 6.5 Milestones](https://poststatus.com/5ftf-proposed-updates-meetup-alternative-gatherpress-phase-3-media-translation-process-challenges-wp-6-5-milestones/)
+- [Meeting Agenda for January 24, 2024](https://make.wordpress.org/meta/2024/01/24/meeting-agenda-for-januar-24-2024/)
 - [Two types of public speakers](https://poststatus.com/two-types-of-public-speakers/)
 - [Community Roundup Week Ending January 19](https://poststatus.com/community-roundup-week-ending-january-19/)
 - [Jobs &amp;amp; Career Roundup Week Ending January 19](https://poststatus.com/jobs-career-roundup-week-ending-january-19/)
@@ -40,12 +41,11 @@
 - [WordPress 6.5 Milestones • Partially Synched Patterns &amp;gt; Overrides • WP-CLI in Playground • Events Page Feedback • Farewell Jill • Incident Reports Recap](https://poststatus.com/wordpress-6-5-milestones-events-page-feedback-farewell-jill-incident-reports-recap/)
 - [Business Roundup Week Ending January 19](https://poststatus.com/business-roundup-week-ending-january-19/)
 - [Why is open source so very cool?](https://poststatus.com/why-is-open-source-so-very-cool/)
+- [Meta Team Goals 2024](https://make.wordpress.org/meta/2024/01/13/meta-team-goals-2024/)
 - [Business Roundup Week Ending January 12](https://poststatus.com/business-roundup-week-ending-january-12/)
 - [2024 Global Sponsors • Agency Outreach • PHPCS 3.8.1 • DevHub Refresh](https://poststatus.com/2024-global-sponsors-agency-outreach-phpcs-3-8-1-devhub-refresh/)
 - [Community Roundup Week Ending January 12](https://poststatus.com/community-roundup-week-ending-january-12/)
 - [Jobs &amp;amp; Career Roundup Week Ending January 12](https://poststatus.com/jobs-career-roundup-week-ending-january-12/)
-- [Member Spotlight: Justin Ferriman](https://poststatus.com/member-spotlight-justin-ferriman/)
-- [Why raise capital?](https://poststatus.com/why-raise-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

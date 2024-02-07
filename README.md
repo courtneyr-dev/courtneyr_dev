@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [WordCamp Asia 2024: The excitement builds as we head to Taipei](https://www.godaddy.com/resources/news/wordcamp-asia-2024)
 - [WordPress 6.4.3 • Zips Not Uploading • 6.5 Release Schedules • Better Props Tracking • Playground + Site Health for Support](https://poststatus.com/wordpress-6-4-3-zips-not-uploading-6-5-release-schedules-better-props-tracking-playground-site-health-for-support/)
 - [5ftF Proposed Updates • Meetup Alternative GatherPress • Phase 3 Media • Translation Process Challenges • WP 6.5 Milestones](https://poststatus.com/5ftf-proposed-updates-meetup-alternative-gatherpress-phase-3-media-translation-process-challenges-wp-6-5-milestones/)
 - [WordPress 6.5 Milestones • Partially Synched Patterns &amp;gt; Overrides • WP-CLI in Playground • Events Page Feedback • Farewell Jill • Incident Reports Recap](https://poststatus.com/wordpress-6-5-milestones-events-page-feedback-farewell-jill-incident-reports-recap/)
@@ -45,7 +46,6 @@
 - [Meeting Agenda for October 4, 2023](https://make.wordpress.org/meta/2023/10/03/meeting-agenda-for-october-4-2023/)
 - [💬 Open Source CMS and WordPress: The Business Value of Linux and Open Source](https://courtneyr.dev/2023/10/02/open-source-cms-and-wordpress/)
 - [💬 Elevate Your Open Source Understanding with 2 Perspectives: The Business &amp;amp; Economics of Linux and Open Source](https://courtneyr.dev/2023/09/29/2-open-source-contexts/)
-- [WordPress 6.4 • Annual Survey • Stats &amp;amp; Dashboards • Global Sponsorship](https://poststatus.com/wordpress-6-4-annual-survey-stats-dashboards-global-sponsorship/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

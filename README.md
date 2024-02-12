@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [🗒️ Exploring Developer Relations: Shaping Open Source and WordPress Communities](https://courtneyr.dev/2024/02/12/developer-relations-open-source-wordpress/)
 - [Agenda for February 7, 2024](https://make.wordpress.org/meta/2024/02/07/agenda-for-february-7-2024/)
 - [WordPress 6.5 Release Parties •jQuery 4.0 Beta • WordPress Recieves Google Ads Grant • Incident Response Nominations](https://poststatus.com/wordpress-6-5-release-parties-jquery-4-0-beta-wordpress-recieves-google-ads-grant-incident-response-nominations/)
 - [WordCamp Asia 2024: The excitement builds as we head to Taipei](https://www.godaddy.com/resources/news/wordcamp-asia-2024)
@@ -45,7 +46,6 @@
 - [WP 6.3.2 &amp;amp; 6.4 Beta 4 • WP CLI • Showcase • Header/Footer](https://poststatus.com/wp-6-3-2-6-4-beta-4-wp-cli-showcase-header-footer/)
 - [WP 6.3.2 RC1 &amp;amp; 6.4 Beta 2 • Plugin Live Demo • Stats &amp;amp; Dashboards • Test Fonts](https://poststatus.com/wp-6-3-2-rc1-6-4-beta-2-plugin-live-demo-stats-dashboards-test-fonts/)
 - [Meeting Recap for October 4, 2023](https://make.wordpress.org/meta/2023/10/05/meeting-recap-for-october-4-2023/)
-- [Meeting Agenda for October 4, 2023](https://make.wordpress.org/meta/2023/10/03/meeting-agenda-for-october-4-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

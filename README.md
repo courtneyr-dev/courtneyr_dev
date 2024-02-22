@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [WP 6.5 Beta 2, Help Test  • Interactivity API • Plugin Dependencies • PHPCS 3.9.0](https://poststatus.com/wp-6-5-beta-2-help-test-interactivity-api-plugin-dependencies-phpcs-3-9-0/)
 - [Meta Meeting Agenda for February 21, 2024](https://make.wordpress.org/meta/2024/02/21/meta-meeting-agenda/)
 - [WP 6.5 Beta 1, Help Test • WP-CLI 2.10.0 • 2023 Annual Survey Findings • Proposal Core Blocks in Directory • Plugin Dependencies • NGINX Forked](https://poststatus.com/wp-6-5-beta-1-help-test-wp-cli-2-10-0-2023-annual-survey-findings-proposal-core-blocks-in-directory-plugin-dependencies-nginx-forked/)
 - [X-post: Discussion: Translation Plugin on Learn](https://make.wordpress.org/meta/2024/02/15/xpost-discussion-translation-plugin-on-learn/)
@@ -45,7 +46,6 @@
 - [WP 6.4 RC2 • WP-CLI 2.9.0 • State of the Word • Theme Custom Settings](https://poststatus.com/wp-6-4-rc2-wp-cli-2-9-0-state-of-the-word-theme-custom-settings/)
 - [WP 6.4 RC1 • Support Forum Guidelines • Playground PR Preview &amp;amp; Beta/RC](https://poststatus.com/wp-6-4-rc1-support-forum-guidelines-playground-pr-preview-beta-rc/)
 - [Meeting Recap for October 18, 2023](https://make.wordpress.org/meta/2023/10/19/meeting-recap-for-october-18-2023/)
-- [Meeting Agenda for October 18, 2023](https://make.wordpress.org/meta/2023/10/18/meeting-agenda-for-october-18-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

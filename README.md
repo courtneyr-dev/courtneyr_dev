@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [WP 6.5 RC1, Help Test, Dev Notes  • Plugin Repo Readme Length • Unblocking Font Library • Playground Blueprint Builder](https://poststatus.com/wp-6-5-rc1-help-test-dev-notes-plugin-repo-readme-length-unblocking-font-library-playground-blueprint-builder/)
 - [WP 6.5 Beta 3, Help Test  • AVIF Support • WC Asia Contributor Day • Contributor Covenant • Overlapping Problems in the Site Editor](https://poststatus.com/wp-6-5-beta-3-help-test-avif-support-wc-asia-contributor-day-contributor-covenant-overlapping-problems-in-the-site-editor/)
 - [WP 6.5 Beta 2, Help Test  • Interactivity API • Plugin Dependencies • PHPCS 3.9.0](https://poststatus.com/wp-6-5-beta-2-help-test-interactivity-api-plugin-dependencies-phpcs-3-9-0/)
 - [Meta Meeting Agenda for February 21, 2024](https://make.wordpress.org/meta/2024/02/21/meta-meeting-agenda/)
@@ -45,7 +46,6 @@
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/training/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [X-post: Create Tours for Make P2s](https://make.wordpress.org/project/2023/11/30/xpost-create-tours-for-make-p2s/)
 - [Meeting Agenda for November 29, 2023](https://make.wordpress.org/meta/2023/11/29/meeting-agenda-for-november-29-2023/)
-- [WP 6.4 PHP Compatibility, Performance Improvements, Retrospective • Twenty Twenty Four](https://poststatus.com/wp-6-4-php-compatibility-performance-improvements-retrospective-twenty-twenty-four/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Meeting Agenda for March 20, 2024](https://make.wordpress.org/meta/2024/03/18/meeting-agenda-for-march-20-2024/)
 - [What’s new in WordPress 6.5](https://www.godaddy.com/resources/news/whats-new-in-wordpress-6-5)
 - [WordPress 6.5 RC2, Help Test • Notifying Blocked Users • Font Library on Track, Synched Patterns on Hold](https://poststatus.com/wordpress-6-5-rc2-help-test-notifying-blocked-users-font-library-on-track-synched-patterns-on-hold/)
 - [WP 6.5 RC1, Help Test, Dev Notes  • Plugin Repo Readme Length • Unblocking Font Library • Playground Blueprint Builder](https://poststatus.com/wp-6-5-rc1-help-test-dev-notes-plugin-repo-readme-length-unblocking-font-library-playground-blueprint-builder/)
@@ -45,7 +46,6 @@
 - [WordPress State of the Word 2023](https://www.godaddy.com/resources/news/wordpress-state-of-the-word-2023)
 - [WordPress 6.4.2 • Security Team Scams • Roadmap to 6.5 • Plugin Previews • Goodbye Slack, Hello Matrix](https://poststatus.com/wordpress-6-4-2-security-team-scams-roadmap-to-6-5-plugin-previews-goodbye-slack-hello-matrix/)
 - [WordCamp Sponsor Demo Tracks • Matrix Chat • Redesigning Dev Resources](https://poststatus.com/wordcamp-sponsor-demo-tracks-matrix-chat-redesigning-dev-resources/)
-- [X-post: Create Tours for Make P2s](https://make.wordpress.org/training/2023/11/30/xpost-create-tours-for-make-p2s/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Support Forums Accessibility AJAX + Onboarding • • WP-CLI Hack Day • WP 6.5 Retro • WordPress 6.5.3 MR](https://poststatus.com/support-forums-accessibility-ajax-onboarding-wp-cli-hack-day-wp-6-5-retro-wordpress-6-5-3-mr/)
 - [Meeting Agenda for April 17, 2023](https://make.wordpress.org/meta/2024/04/17/meeting-agenda-for-april-17-2023/)
 - [WordPress 6.5.2 • Mentorship Graduates • Meetup Feedback • Grid Feedback • PHP Compatible • PHP 8.3.6 • DEIB Vision &amp;amp; Goals • Speculative Loading](https://poststatus.com/wordpress-6-5-2-mentorship-graduates-meetup-feedback-grid-feedback-php-compatible-php-8-3-6-deib-vision-goals/)
 - [WordPress 6.5 • Call for 6.6 • Plugin Social Share Images • WP-CLI Hack Day • Update Homebrew](https://poststatus.com/wordpress-6-5-call-for-6-6-plugin-social-share-images-wp-cli-hack-day-update-homebrew/)
@@ -45,7 +46,6 @@
 - [Meeting Agenda for January 24, 2024](https://make.wordpress.org/meta/2024/01/24/meeting-agenda-for-januar-24-2024/)
 - [WordPress 6.5 Milestones • Partially Synched Patterns &amp;gt; Overrides • WP-CLI in Playground • Events Page Feedback • Farewell Jill • Incident Reports Recap](https://poststatus.com/wordpress-6-5-milestones-events-page-feedback-farewell-jill-incident-reports-recap/)
 - [Meta Team Goals 2024](https://make.wordpress.org/meta/2024/01/13/meta-team-goals-2024/)
-- [2024 Global Sponsors • Agency Outreach • PHPCS 3.8.1 • DevHub Refresh](https://poststatus.com/2024-global-sponsors-agency-outreach-phpcs-3-8-1-devhub-refresh/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

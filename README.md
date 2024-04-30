@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Meeting Agenda for May 1, 2024](https://make.wordpress.org/meta/2024/04/30/meeting-agenda-for-may-1-2024/)
 - [🏕️ YouthCamp Kozhikode 🔄 Merge Proposal: Rollback Auto-Update 🌟 do_action Mumbai 🔌 Plugin Directory Playground Previews ⚡ WordPress 6.5 Performance Improvements](https://poststatus.com/%F0%9F%8F%95%EF%B8%8F-youthcamp-kozhikode-%F0%9F%94%84-merge-proposal-rollback-auto-update-%F0%9F%8C%9F-do_action-mumbai-%F0%9F%94%8C-plugin-directory-playground-previews-%E2%9A%A1-wordpress-6-5-perf/)
 - [Support Forums Accessibility AJAX + Onboarding • • WP-CLI Hack Day • WP 6.5 Retro • WordPress 6.5.3 MR](https://poststatus.com/support-forums-accessibility-ajax-onboarding-wp-cli-hack-day-wp-6-5-retro-wordpress-6-5-3-mr/)
 - [Meeting Agenda for April 17, 2023](https://make.wordpress.org/meta/2024/04/17/meeting-agenda-for-april-17-2023/)
@@ -45,7 +46,6 @@
 - [WordPress 6.4.3 • Zips Not Uploading • 6.5 Release Schedules • Better Props Tracking • Playground + Site Health for Support](https://poststatus.com/wordpress-6-4-3-zips-not-uploading-6-5-release-schedules-better-props-tracking-playground-site-health-for-support/)
 - [5ftF Proposed Updates • Meetup Alternative GatherPress • Phase 3 Media • Translation Process Challenges • WP 6.5 Milestones](https://poststatus.com/5ftf-proposed-updates-meetup-alternative-gatherpress-phase-3-media-translation-process-challenges-wp-6-5-milestones/)
 - [Meeting Agenda for January 24, 2024](https://make.wordpress.org/meta/2024/01/24/meeting-agenda-for-januar-24-2024/)
-- [WordPress 6.5 Milestones • Partially Synched Patterns &amp;gt; Overrides • WP-CLI in Playground • Events Page Feedback • Farewell Jill • Incident Reports Recap](https://poststatus.com/wordpress-6-5-milestones-events-page-feedback-farewell-jill-incident-reports-recap/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

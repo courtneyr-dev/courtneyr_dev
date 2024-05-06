@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [WordPress turns 21](https://www.godaddy.com/resources/news/wordpress-turns-21)
 - [🌐 WP Media Corps Next Steps &lpar;Marketing Team&rpar; 🔄 Gutenberg’s Persistent Inserter Sidebar 🛠 Gutenberg 18.2 Enhancements 🔧 React 19 Beta Upgrade Guide 📣 Call for Volunteers for WP 6.6](https://poststatus.com/%F0%9F%8C%90-wp-media-corps-next-steps-marketing-team-%F0%9F%94%84-gutenbergs-persistent-inserter-sidebar-%F0%9F%9B%A0-gutenberg-18-2-enhancements-%F0%9F%94%A7-react-19-beta-upgrade-guide/)
 - [Meeting Agenda for May 1, 2024](https://make.wordpress.org/meta/2024/04/30/meeting-agenda-for-may-1-2024/)
 - [🏕️ YouthCamp Kozhikode 🔄 Merge Proposal: Rollback Auto-Update 🌟 do_action Mumbai 🔌 Plugin Directory Playground Previews ⚡ WordPress 6.5 Performance Improvements](https://poststatus.com/%F0%9F%8F%95%EF%B8%8F-youthcamp-kozhikode-%F0%9F%94%84-merge-proposal-rollback-auto-update-%F0%9F%8C%9F-do_action-mumbai-%F0%9F%94%8C-plugin-directory-playground-previews-%E2%9A%A1-wordpress-6-5-perf/)
@@ -45,7 +46,6 @@
 - [WordPress 6.5 Release Parties •jQuery 4.0 Beta • WordPress Recieves Google Ads Grant • Incident Response Nominations](https://poststatus.com/wordpress-6-5-release-parties-jquery-4-0-beta-wordpress-recieves-google-ads-grant-incident-response-nominations/)
 - [WordCamp Asia 2024: The excitement builds as we head to Taipei](https://www.godaddy.com/resources/news/wordcamp-asia-2024)
 - [WordPress 6.4.3 • Zips Not Uploading • 6.5 Release Schedules • Better Props Tracking • Playground + Site Health for Support](https://poststatus.com/wordpress-6-4-3-zips-not-uploading-6-5-release-schedules-better-props-tracking-playground-site-health-for-support/)
-- [5ftF Proposed Updates • Meetup Alternative GatherPress • Phase 3 Media • Translation Process Challenges • WP 6.5 Milestones](https://poststatus.com/5ftf-proposed-updates-meetup-alternative-gatherpress-phase-3-media-translation-process-challenges-wp-6-5-milestones/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

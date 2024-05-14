@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Meeting Agenda for May 15, 2024](https://make.wordpress.org/meta/2024/05/14/meeting-agenda-for-may-15-2024/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/project/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/meta/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 - [Early Opportunity to Test WP 6.6 • WP 6.5.3 Released • 5ftF Documentation • Core Proposals](https://poststatus.com/early-opportunity-to-test-wp-6-6-wp-6-5-3-released-5ftf-documentation-core-proposals/)
@@ -45,7 +46,6 @@
 - [WP 6.5 Beta 1, Help Test • WP-CLI 2.10.0 • 2023 Annual Survey Findings • Proposal Core Blocks in Directory • Plugin Dependencies • NGINX Forked](https://poststatus.com/wp-6-5-beta-1-help-test-wp-cli-2-10-0-2023-annual-survey-findings-proposal-core-blocks-in-directory-plugin-dependencies-nginx-forked/)
 - [X-post: Discussion: Translation Plugin on Learn](https://make.wordpress.org/meta/2024/02/15/xpost-discussion-translation-plugin-on-learn/)
 - [🗒️ Exploring Developer Relations: Shaping Open Source and WordPress Communities](https://courtneyr.dev/2024/02/12/developer-relations-open-source-wordpress/)
-- [Agenda for February 7, 2024](https://make.wordpress.org/meta/2024/02/07/agenda-for-february-7-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

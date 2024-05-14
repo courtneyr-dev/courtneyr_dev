@@ -21,6 +21,8 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/project/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
+- [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/meta/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 - [Early Opportunity to Test WP 6.6 • WP 6.5.3 Released • 5ftF Documentation • Core Proposals](https://poststatus.com/early-opportunity-to-test-wp-6-6-wp-6-5-3-released-5ftf-documentation-core-proposals/)
 - [WordPress turns 21](https://www.godaddy.com/resources/news/wordpress-turns-21)
 - [🌐 WP Media Corps Next Steps &lpar;Marketing Team&rpar; 🔄 Gutenberg’s Persistent Inserter Sidebar 🛠 Gutenberg 18.2 Enhancements 🔧 React 19 Beta Upgrade Guide 📣 Call for Volunteers for WP 6.6](https://poststatus.com/%F0%9F%8C%90-wp-media-corps-next-steps-marketing-team-%F0%9F%94%84-gutenbergs-persistent-inserter-sidebar-%F0%9F%9B%A0-gutenberg-18-2-enhancements-%F0%9F%94%A7-react-19-beta-upgrade-guide/)
@@ -44,8 +46,6 @@
 - [X-post: Discussion: Translation Plugin on Learn](https://make.wordpress.org/meta/2024/02/15/xpost-discussion-translation-plugin-on-learn/)
 - [🗒️ Exploring Developer Relations: Shaping Open Source and WordPress Communities](https://courtneyr.dev/2024/02/12/developer-relations-open-source-wordpress/)
 - [Agenda for February 7, 2024](https://make.wordpress.org/meta/2024/02/07/agenda-for-february-7-2024/)
-- [WordPress 6.5 Release Parties •jQuery 4.0 Beta • WordPress Recieves Google Ads Grant • Incident Response Nominations](https://poststatus.com/wordpress-6-5-release-parties-jquery-4-0-beta-wordpress-recieves-google-ads-grant-incident-response-nominations/)
-- [WordCamp Asia 2024: The excitement builds as we head to Taipei](https://www.godaddy.com/resources/news/wordcamp-asia-2024)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

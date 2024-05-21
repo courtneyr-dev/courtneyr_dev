@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Questions about WordPress: do answers exist?](https://courtneyr.dev/2024/05/21/questions-about-wordpress-do-answers-exist/)
 - [📈 Project Health Dashboards📅 WordPress 6.6 Release Squad Ready 🌟 Recognizing Contributions and Acknowledging Challenges 💰 Community Support Financial Health Update](https://poststatus.com/%F0%9F%93%88-project-health-dashboards%F0%9F%93%85-wordpress-6-6-release-squad-ready-%F0%9F%8C%9F-recognizing-contributions-and-acknowledging-challenges-%F0%9F%92%B0-community-support-financial-health/)
 - [Meeting Agenda for May 15, 2024](https://make.wordpress.org/meta/2024/05/14/meeting-agenda-for-may-15-2024/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/project/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
@@ -45,7 +46,6 @@
 - [WP 6.5 Beta 2, Help Test  • Interactivity API • Plugin Dependencies • PHPCS 3.9.0](https://poststatus.com/wp-6-5-beta-2-help-test-interactivity-api-plugin-dependencies-phpcs-3-9-0/)
 - [Meta Meeting Agenda for February 21, 2024](https://make.wordpress.org/meta/2024/02/21/meta-meeting-agenda/)
 - [WP 6.5 Beta 1, Help Test • WP-CLI 2.10.0 • 2023 Annual Survey Findings • Proposal Core Blocks in Directory • Plugin Dependencies • NGINX Forked](https://poststatus.com/wp-6-5-beta-1-help-test-wp-cli-2-10-0-2023-annual-survey-findings-proposal-core-blocks-in-directory-plugin-dependencies-nginx-forked/)
-- [X-post: Discussion: Translation Plugin on Learn](https://make.wordpress.org/meta/2024/02/15/xpost-discussion-translation-plugin-on-learn/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

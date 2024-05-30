@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [On the Way to WordCamp Europe 2024](https://www.godaddy.com/resources/news/on-the-way-to-wordcamp-europe-2024)
 - [Meeting Agenda for May 29, 2024](https://make.wordpress.org/meta/2024/05/29/meeting-agenda-for-may-29-2024/)
 - [🛕 WordCamps at Religious Institutions 📅 Project Health Hangouts 5️⃣ Five for the Future Update 💻 do_action Mumbai 2024](https://poststatus.com/%F0%9F%9B%95-wordcamps-at-religious-institutions-%F0%9F%93%85-project-health-hangouts-5%EF%B8%8F%E2%83%A3-five-for-the-future-update-%F0%9F%92%BB-do_action-mumbai-2024/)
 - [Questions about WordPress: do answers exist?](https://courtneyr.dev/2024/05/21/questions-about-wordpress-do-answers-exist/)
@@ -45,7 +46,6 @@
 - [WordPress 6.5 RC2, Help Test • Notifying Blocked Users • Font Library on Track, Synched Patterns on Hold](https://poststatus.com/wordpress-6-5-rc2-help-test-notifying-blocked-users-font-library-on-track-synched-patterns-on-hold/)
 - [WP 6.5 RC1, Help Test, Dev Notes  • Plugin Repo Readme Length • Unblocking Font Library • Playground Blueprint Builder](https://poststatus.com/wp-6-5-rc1-help-test-dev-notes-plugin-repo-readme-length-unblocking-font-library-playground-blueprint-builder/)
 - [WP 6.5 Beta 3, Help Test  • AVIF Support • WC Asia Contributor Day • Contributor Covenant • Overlapping Problems in the Site Editor](https://poststatus.com/wp-6-5-beta-3-help-test-avif-support-wc-asia-contributor-day-contributor-covenant-overlapping-problems-in-the-site-editor/)
-- [WP 6.5 Beta 2, Help Test  • Interactivity API • Plugin Dependencies • PHPCS 3.9.0](https://poststatus.com/wp-6-5-beta-2-help-test-interactivity-api-plugin-dependencies-phpcs-3-9-0/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

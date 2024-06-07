@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 6.5.4 • JSX in WP 6.6 • Challenges of Events • Shaping Plugin Review Team • Contributor Handbook v2](https://poststatus.com/wordpress-6-5-4-jsx-in-wp-6-6-challenges-of-events-shaping-plugin-review-team-contributor-handbook-v2/)
 - [WordPress 6.5.4 RC1 • Project Health Hangouts • Learn WP Tools](https://poststatus.com/wordpress-6-5-4-rc1-project-health-hangouts-learn-wp-tools/)
 - [On the Way to WordCamp Europe 2024](https://www.godaddy.com/resources/news/on-the-way-to-wordcamp-europe-2024)
 - [Meeting Agenda for May 29, 2024](https://make.wordpress.org/meta/2024/05/29/meeting-agenda-for-may-29-2024/)
@@ -45,7 +46,6 @@
 - [Meeting Agenda for March 20, 2024](https://make.wordpress.org/meta/2024/03/18/meeting-agenda-for-march-20-2024/)
 - [What’s new in WordPress 6.5](https://www.godaddy.com/resources/news/whats-new-in-wordpress-6-5)
 - [WordPress 6.5 RC2, Help Test • Notifying Blocked Users • Font Library on Track, Synched Patterns on Hold](https://poststatus.com/wordpress-6-5-rc2-help-test-notifying-blocked-users-font-library-on-track-synched-patterns-on-hold/)
-- [WP 6.5 RC1, Help Test, Dev Notes  • Plugin Repo Readme Length • Unblocking Font Library • Playground Blueprint Builder](https://poststatus.com/wp-6-5-rc1-help-test-dev-notes-plugin-repo-readme-length-unblocking-font-library-playground-blueprint-builder/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

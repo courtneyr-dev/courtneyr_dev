@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Meeting Agenda for June 26, 2024](https://make.wordpress.org/meta/2024/06/26/meeting-agenda/)
 - [WordPress 6.6 Beta 3 🆕 Theme Directory Refresh 📚 Contributor Handbook v2 📆 Sustainable Events 🌐 Rosetta Sites &amp;gt; New Theme](https://poststatus.com/wordpress-6-6-beta-3-%F0%9F%86%95-theme-directory-refresh-%F0%9F%93%9A-contributor-handbook-v2-%F0%9F%93%86-sustainable-events-%F0%9F%8C%90-rosetta-sites-new-theme/)
 - [WordPress 6.5.4 • JSX in WP 6.6 • Challenges of Events • Shaping Plugin Review Team • Contributor Handbook v2](https://poststatus.com/wordpress-6-5-4-jsx-in-wp-6-6-challenges-of-events-shaping-plugin-review-team-contributor-handbook-v2/)
 - [WordPress 6.5.4 RC1 • Project Health Hangouts • Learn WP Tools](https://poststatus.com/wordpress-6-5-4-rc1-project-health-hangouts-learn-wp-tools/)
@@ -45,7 +46,6 @@
 - [WordPress 6.5 RC4, Help Test • Fonts &amp;gt; wp-content/uploads/fonts • Test Fonts• WPCS 3.1.0](https://poststatus.com/wordpress-6-5-rc4-help-test-fonts-wp-content-uploads-fonts-test-fonts-wpcs-3-1-0/)
 - [WordPress 6.5 RC3, Help Test • Fonts &amp;gt; wp-content/fonts •Making a PR Media Corps • Marketing Team Future Uncertain](https://poststatus.com/wordpress-6-5-rc3-help-test-fonts-wp-content-fonts-making-a-pr-media-corps-marketing-team-future-uncertain/)
 - [Meeting Agenda for March 20, 2024](https://make.wordpress.org/meta/2024/03/18/meeting-agenda-for-march-20-2024/)
-- [What’s new in WordPress 6.5](https://www.godaddy.com/resources/news/whats-new-in-wordpress-6-5)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 6.6 Field Guide,  RC1 🔐 6.5.5 Security 📆 GatherPress Trial in LearnWP 👩🏻‍🏫 Beginner WP Dev Course](https://poststatus.com/wordpress-6-6-field-guide-rc1-%F0%9F%94%90-6-5-5-security-%F0%9F%93%86-gatherpress-trial-in-learnwp-%F0%9F%91%A9%F0%9F%8F%BB%F0%9F%8F%AB-beginner-wp-dev-course/)
 - [X-post: Training team testing GatherPress](https://make.wordpress.org/meta/2024/06/27/xpost-training-team-testing-gatherpress/)
 - [Meeting Agenda for June 26, 2024](https://make.wordpress.org/meta/2024/06/26/meeting-agenda/)
 - [WordPress 6.6 Beta 3 🆕 Theme Directory Refresh 📚 Contributor Handbook v2 📆 Sustainable Events 🌐 Rosetta Sites &amp;gt; New Theme](https://poststatus.com/wordpress-6-6-beta-3-%F0%9F%86%95-theme-directory-refresh-%F0%9F%93%9A-contributor-handbook-v2-%F0%9F%93%86-sustainable-events-%F0%9F%8C%90-rosetta-sites-new-theme/)
@@ -45,7 +46,6 @@
 - [WordPress 6.5 • Call for 6.6 • Plugin Social Share Images • WP-CLI Hack Day • Update Homebrew](https://poststatus.com/wordpress-6-5-call-for-6-6-plugin-social-share-images-wp-cli-hack-day-update-homebrew/)
 - [Meeting Agenda for April 3, 2024](https://make.wordpress.org/meta/2024/04/03/meeting-agenda-for-april-3-2024/)
 - [WordPress 6.5 RC4, Help Test • Fonts &amp;gt; wp-content/uploads/fonts • Test Fonts• WPCS 3.1.0](https://poststatus.com/wordpress-6-5-rc4-help-test-fonts-wp-content-uploads-fonts-test-fonts-wpcs-3-1-0/)
-- [WordPress 6.5 RC3, Help Test • Fonts &amp;gt; wp-content/fonts •Making a PR Media Corps • Marketing Team Future Uncertain](https://poststatus.com/wordpress-6-5-rc3-help-test-fonts-wp-content-fonts-making-a-pr-media-corps-marketing-team-future-uncertain/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

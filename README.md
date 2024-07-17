@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [WordCamp Canada 2024](https://courtneyr.dev/2024/07/17/wordcamp-canada-2024/)
 - [WordPress 6.6 Field Guide,  RC3 🌏 Global Sponsors Discussion 🆕 First Time Attendee Metrics 📸 AVIF and WebP 🎨 Twenty Twenty Five Theme Kickoff](https://poststatus.com/wordpress-6-6-field-guide-rc3-%F0%9F%8C%8F-global-sponsors-discussion-%F0%9F%86%95-first-time-attendee-metrics-%F0%9F%93%B8-avif-and-webp-%F0%9F%8E%A8-twenty-twenty-five-theme-kickoff/)
 - [Meeting Agenda for July 10, 2024](https://make.wordpress.org/meta/2024/07/10/meeting-agenda-for-july-10-2024/)
 - [What’s new in WordPress 6.6: Key features and updates](https://www.godaddy.com/resources/news/whats-new-in-wordpress-6-6-key-features-and-updates)
@@ -45,7 +46,6 @@
 - [🏕️ YouthCamp Kozhikode 🔄 Merge Proposal: Rollback Auto-Update 🌟 do_action Mumbai 🔌 Plugin Directory Playground Previews ⚡ WordPress 6.5 Performance Improvements](https://poststatus.com/%F0%9F%8F%95%EF%B8%8F-youthcamp-kozhikode-%F0%9F%94%84-merge-proposal-rollback-auto-update-%F0%9F%8C%9F-do_action-mumbai-%F0%9F%94%8C-plugin-directory-playground-previews-%E2%9A%A1-wordpress-6-5-perf/)
 - [Support Forums Accessibility AJAX + Onboarding • • WP-CLI Hack Day • WP 6.5 Retro • WordPress 6.5.3 MR](https://poststatus.com/support-forums-accessibility-ajax-onboarding-wp-cli-hack-day-wp-6-5-retro-wordpress-6-5-3-mr/)
 - [Meeting Agenda for April 17, 2023](https://make.wordpress.org/meta/2024/04/17/meeting-agenda-for-april-17-2023/)
-- [WordPress 6.5.2 • Mentorship Graduates • Meetup Feedback • Grid Feedback • PHP Compatible • PHP 8.3.6 • DEIB Vision &amp;amp; Goals • Speculative Loading](https://poststatus.com/wordpress-6-5-2-mentorship-graduates-meetup-feedback-grid-feedback-php-compatible-php-8-3-6-deib-vision-goals/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

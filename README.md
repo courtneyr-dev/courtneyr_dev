@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Agenda for August 7, 2024](https://make.wordpress.org/meta/2024/08/07/agenda-for-august-7-2024/)
 - [👩🏻‍🎨 LearnWP Redesign Launched 🔌 Call for Plugin Devs for Intermediate Pathway 👩🏽‍💻 WP-CLI 2.11.0 🗓️ Meetup Reactivations &amp;amp; Closures](https://poststatus.com/%F0%9F%91%A9%F0%9F%8F%BB%F0%9F%8E%A8-learnwp-redesign-launched-%F0%9F%94%8C-call-for-plugin-devs-for-intermediate-pathway-%F0%9F%91%A9%F0%9F%8F%BD%F0%9F%92%BB-wp-cli-2-11-0/)
 - [🚀 WordPress 6.6.1 🖥️ PHPCS 3.10.2 🐛 `die&lpar;&rpar;;` to core 🕌 Venue Policy 👩🏻‍💻 Meetup Trends 📊](https://poststatus.com/%F0%9F%9A%80-wordpress-6-6-1-%F0%9F%96%A5%EF%B8%8F-phpcs-3-10-2-%F0%9F%90%9B-die-to-core-%F0%9F%95%8C-venue-policy-%F0%9F%91%A9%F0%9F%8F%BB%F0%9F%92%BB-meetup-trends/)
 - [WordCamp US Contributor Day](https://make.wordpress.org/meta/2024/07/24/wordcamp-us-contributor-day/)
@@ -45,7 +46,6 @@
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/project/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 - [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/meta/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 - [Early Opportunity to Test WP 6.6 • WP 6.5.3 Released • 5ftF Documentation • Core Proposals](https://poststatus.com/early-opportunity-to-test-wp-6-6-wp-6-5-3-released-5ftf-documentation-core-proposals/)
-- [WordPress turns 21](https://www.godaddy.com/resources/news/wordpress-turns-21)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

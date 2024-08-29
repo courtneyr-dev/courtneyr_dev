@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [DoTheWoo: From WordPress to Drupal, Insights and Innovations with Malcolm Peralty](https://courtneyr.dev/2024/08/29/dothewoo-from-wordpress-to-drupal-insights-and-innovations-with-malcolm-peralty/)
 - [🚀 WP-CLI 2.11.0  🛝 Playground Offline 🫰🏻Marketing WordCamps 💚 NodeJS 22.6.0 🐘 PHP 8.4 Alpha 4](https://poststatus.com/%F0%9F%9A%80-wp-cli-2-11-0-%F0%9F%9B%9D-playground-offline-%F0%9F%AB%B0%F0%9F%8F%BBmarketing-wordcamps-%F0%9F%92%9A-nodejs-22-6-0-%F0%9F%90%98-php-8-4-alpha-4/)
 - [Get ready for WordCamp US 2024 in Portland](https://www.godaddy.com/resources/news/get-ready-for-wordcamp-us-2024-in-portland)
 - [Agenda for August 7, 2024](https://make.wordpress.org/meta/2024/08/07/agenda-for-august-7-2024/)
@@ -45,7 +46,6 @@
 - [Questions about WordPress: do answers exist?](https://courtneyr.dev/2024/05/21/questions-about-wordpress-do-answers-exist/)
 - [📈 Project Health Dashboards📅 WordPress 6.6 Release Squad Ready 🌟 Recognizing Contributions and Acknowledging Challenges 💰 Community Support Financial Health Update](https://poststatus.com/%F0%9F%93%88-project-health-dashboards%F0%9F%93%85-wordpress-6-6-release-squad-ready-%F0%9F%8C%9F-recognizing-contributions-and-acknowledging-challenges-%F0%9F%92%B0-community-support-financial-health/)
 - [Meeting Agenda for May 15, 2024](https://make.wordpress.org/meta/2024/05/14/meeting-agenda-for-may-15-2024/)
-- [X-post: Recognizing Contributions and Acknowledging Challenges](https://make.wordpress.org/project/2024/05/14/xpost-recognizing-contributions-and-acknowledging-challenges/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

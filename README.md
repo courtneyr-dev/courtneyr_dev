@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Agenda for September 4, 2024](https://make.wordpress.org/meta/2024/09/04/agenda-for-september-4-2024/)
 - [Wearing Many Hats, Literally – WPBuilds This Week in WordPress 307](https://courtneyr.dev/2024/09/03/wearing-many-hats-literally-wpbuilds-this-week-in-wordpress-307/)
 - [jQuery 4.0 coming to WP • WordPress 6.7 Bug Scrub • WP 6.6.2 • Twenty Twenty Five Theme • Attracting New Learners to LearnWP](https://poststatus.com/jquery-4-0-coming-to-wp-wordpress-6-7-roadmap-wp-6-6-2-twenty-twenty-five-theme-attracting-new-learners-to-learnwp/)
 - [DoTheWoo: From WordPress to Drupal, Insights and Innovations with Malcolm Peralty](https://courtneyr.dev/2024/08/29/dothewoo-from-wordpress-to-drupal-insights-and-innovations-with-malcolm-peralty/)
@@ -45,7 +46,6 @@
 - [On the Way to WordCamp Europe 2024](https://www.godaddy.com/resources/news/on-the-way-to-wordcamp-europe-2024)
 - [Meeting Agenda for May 29, 2024](https://make.wordpress.org/meta/2024/05/29/meeting-agenda-for-may-29-2024/)
 - [🛕 WordCamps at Religious Institutions 📅 Project Health Hangouts 5️⃣ Five for the Future Update 💻 do_action Mumbai 2024](https://poststatus.com/%F0%9F%9B%95-wordcamps-at-religious-institutions-%F0%9F%93%85-project-health-hangouts-5%EF%B8%8F%E2%83%A3-five-for-the-future-update-%F0%9F%92%BB-do_action-mumbai-2024/)
-- [Questions about WordPress: do answers exist?](https://courtneyr.dev/2024/05/21/questions-about-wordpress-do-answers-exist/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

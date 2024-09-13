@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Contributor Health Dashboards • 5ftF Redesign • WordPress 6.6.2 • Advancing WP Design System • Default Theme Task Force • PHPUnit Polyfills 3.0.0](https://poststatus.com/contributor-health-dashboards-5ftf-redesign-wordpress-6-6-2-advancing-wp-design-system-default-theme-task-force-phpunit-polyfills-3-0-0/)
 - [2FA on Plugin &amp;amp; Theme Authors by Oct 1 • Roadmap to WP 6.7 • WP 6.6.2 RC1 • 5ftF Redesign • Twenty Twenty Five](https://poststatus.com/2fa-on-plugin-theme-authors-by-oct-1-roadmap-to-wp-6-7-wp-6-6-2-rc1-5ftf-redesign-twenty-twenty-five/)
 - [Agenda for September 4, 2024](https://make.wordpress.org/meta/2024/09/04/agenda-for-september-4-2024/)
 - [Wearing Many Hats, Literally – WPBuilds This Week in WordPress 307](https://courtneyr.dev/2024/09/03/wearing-many-hats-literally-wpbuilds-this-week-in-wordpress-307/)
@@ -45,7 +46,6 @@
 - [WordPress 6.5.4 • JSX in WP 6.6 • Challenges of Events • Shaping Plugin Review Team • Contributor Handbook v2](https://poststatus.com/wordpress-6-5-4-jsx-in-wp-6-6-challenges-of-events-shaping-plugin-review-team-contributor-handbook-v2/)
 - [WordPress 6.5.4 RC1 • Project Health Hangouts • Learn WP Tools](https://poststatus.com/wordpress-6-5-4-rc1-project-health-hangouts-learn-wp-tools/)
 - [On the Way to WordCamp Europe 2024](https://www.godaddy.com/resources/news/on-the-way-to-wordcamp-europe-2024)
-- [Meeting Agenda for May 29, 2024](https://make.wordpress.org/meta/2024/05/29/meeting-agenda-for-may-29-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

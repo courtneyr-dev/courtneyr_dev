@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Agenda for October 30, 2024](https://make.wordpress.org/meta/2024/10/30/agenda-for-october-30-2024/)
 - [Agenda for October 16, 2024](https://make.wordpress.org/meta/2024/10/16/agenda-for-october-16-2024/)
 - [Agenda for October 1, 2024](https://make.wordpress.org/meta/2024/10/02/agenda-for-october-1-2024/)
 - [Contributor Health Dashboards • 5ftF Redesign • WordPress 6.6.2 • Advancing WP Design System • Default Theme Task Force • PHPUnit Polyfills 3.0.0](https://poststatus.com/contributor-health-dashboards-5ftf-redesign-wordpress-6-6-2-advancing-wp-design-system-default-theme-task-force-phpunit-polyfills-3-0-0/)
@@ -45,7 +46,6 @@
 - [X-post: Training team testing GatherPress](https://make.wordpress.org/meta/2024/06/27/xpost-training-team-testing-gatherpress/)
 - [Meeting Agenda for June 26, 2024](https://make.wordpress.org/meta/2024/06/26/meeting-agenda/)
 - [WordPress 6.6 Beta 3 🆕 Theme Directory Refresh 📚 Contributor Handbook v2 📆 Sustainable Events 🌐 Rosetta Sites &amp;gt; New Theme](https://poststatus.com/wordpress-6-6-beta-3-%F0%9F%86%95-theme-directory-refresh-%F0%9F%93%9A-contributor-handbook-v2-%F0%9F%93%86-sustainable-events-%F0%9F%8C%90-rosetta-sites-new-theme/)
-- [WordPress 6.5.4 • JSX in WP 6.6 • Challenges of Events • Shaping Plugin Review Team • Contributor Handbook v2](https://poststatus.com/wordpress-6-5-4-jsx-in-wp-6-6-challenges-of-events-shaping-plugin-review-team-contributor-handbook-v2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

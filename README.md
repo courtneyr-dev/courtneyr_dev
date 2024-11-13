@@ -21,6 +21,7 @@
 ## 📝 &nbsp;**Latest Blog Posts**
 <a href="https://app.daily.dev/courtneyr_dev"><img align="right" src="https://api.daily.dev/devcards/e52de7446e754a358091b65be1958965.png?r=5qt" width="400" alt="Courtney Robertson's Dev Card"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Agenda for November 13, 2024](https://make.wordpress.org/meta/2024/11/13/agenda-for-november-13-2024/)
 - [WordPress 6.7: Elevating user experience with enhanced features and performance](https://www.godaddy.com/resources/stories/wordpress-6-7-elevating-user-experience-with-enhanced-features-and-performance)
 - [Agenda for October 30, 2024](https://make.wordpress.org/meta/2024/10/30/agenda-for-october-30-2024/)
 - [Agenda for October 16, 2024](https://make.wordpress.org/meta/2024/10/16/agenda-for-october-16-2024/)
@@ -45,7 +46,6 @@
 - [What’s new in WordPress 6.6: Key features and updates](https://www.godaddy.com/resources/news/whats-new-in-wordpress-6-6-key-features-and-updates)
 - [WordPress 6.6 Field Guide,  RC1 🔐 6.5.5 Security 📆 GatherPress Trial in LearnWP 👩🏻‍🏫 Beginner WP Dev Course](https://poststatus.com/wordpress-6-6-field-guide-rc1-%F0%9F%94%90-6-5-5-security-%F0%9F%93%86-gatherpress-trial-in-learnwp-%F0%9F%91%A9%F0%9F%8F%BB%F0%9F%8F%AB-beginner-wp-dev-course/)
 - [X-post: Training team testing GatherPress](https://make.wordpress.org/meta/2024/06/27/xpost-training-team-testing-gatherpress/)
-- [Meeting Agenda for June 26, 2024](https://make.wordpress.org/meta/2024/06/26/meeting-agenda/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
